@@ -1,15 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="103.5" height="88.5" viewBox="0 0 77.625 66.375" color-interpolation-filters="sRGB" fill="none" fill-rule="evenodd" font-size="12" overflow="visible" stroke-linecap="square" stroke-miterlimit="3">
-  <v:documentProperties v:langID="4108" v:metric="true" v:viewMarkup="false"/>
-  <g v:mID="0" v:index="1" v:groupContext="foregroundPage">
-    <v:pageProperties v:drawingScale=".039" v:pageScale=".039" v:drawingUnits="24" v:shadowOffsetX="8.504" v:shadowOffsetY="-8.504"/>
-    <v:layer v:name="symbols" v:index="0"/>
-    <g transform="translate(7.875 -6.938)" v:mID="91" v:groupContext="group" v:layerMember="0">
-      <g v:mID="92" v:groupContext="shape" v:layerMember="0">
-        <path d="M16.12 66.38c-2.25 0-4.04-1.8-4.04-4.05s1.79-4.13 4.04-4.13c5.33-.07 6.53-.6 6.75-.9 0 0 .23-.15-.07-1.42H5.18C2.4 55.88 0 53.48 0 50.63v-31.5c0-2.85 2.4-5.25 5.18-5.25h51.9c2.77 0 5.17 2.4 5.17 5.25v31.5c0 2.85-2.4 5.25-5.17 5.25H39.45c-.23 1.27-.07 1.35-.07 1.42.22.3 1.42.83 6.75.9 2.17 0 4.04 1.8 4.04 4.13 0 2.25-1.79 4.05-4.04 4.05H16.12z" fill="#fff" stroke-linecap="butt" stroke-width=".75"/>
-      </g>
-      <g v:mID="93" v:groupContext="shape" v:layerMember="0" transform="translate(2.25 -2.25)">
-        <path d="M54.82 18.38H2.93c-1.58 0-2.93 1.42-2.93 3v31.5c0 1.57 1.35 3 2.93 3h19.35c1.64 5.77.29 6.75-8.48 6.82-.98 0-1.8.83-1.8 1.88 0 .97.82 1.8 1.8 1.8h30c.98 0 1.8-.83 1.8-1.8 0-.98-.82-1.88-1.8-1.88-8.63-.07-9.97-1.05-8.33-6.82h19.35c1.65 0 2.93-1.43 2.93-3v-31.5c0-1.58-1.35-3-2.93-3zM54 52.13H3.75v-30H54v30z" fill="#515050" stroke-linecap="butt" stroke-width=".75"/>
-      </g>
-    </g>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="58px" height="48px" viewBox="-0.5 -0.5 58 48"><defs/><g><rect x="0" y="-0.5" width="58" height="48" fill="none" stroke="none" pointer-events="all"/><path d="M 3.77 33.25 L 54.23 33.25 L 54.23 3.25 L 3.77 3.25 Z M 2.89 37 C 1.59 37 0 35.74 0 34.05 L 0 2.51 C 0 0.9 1.43 -0.5 2.85 -0.5 L 55.12 -0.5 C 56.64 -0.5 58 0.97 58 2.43 L 58 34.02 C 58 35.38 56.91 37 55.01 37 L 35.63 37 C 35.31 38.11 35.02 39.23 35.01 40.34 C 35 42.2 36.09 42.91 37.7 43.33 C 39.7 43.78 41.82 43.78 43.93 43.82 C 44.8 43.82 45.8 44.56 45.8 45.73 C 45.8 46.68 44.91 47.5 44.12 47.5 L 13.82 47.5 C 12.98 47.5 12.05 46.71 12.05 45.76 C 12.05 44.68 12.83 43.82 13.86 43.82 C 16.33 43.76 19.53 43.8 21.38 42.94 C 22.22 42.55 22.93 41.93 22.97 40.58 C 23.04 39.4 22.69 38.19 22.38 37 Z" fill="#505050" stroke="none" pointer-events="all"/></g></svg>
