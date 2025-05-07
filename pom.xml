@@ -1,0 +1,43 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>fr.caas</groupId>
+    <artifactId>vector-icon-lib</artifactId>
+    <version>1.0</version>
+    <description>Demo project for extracting icons from https://app.diagrams.net/</description>
+    <properties>
+        <java.version>23</java.version>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.jsoup</groupId>
+            <artifactId>jsoup</artifactId>
+            <version>1.20.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.13.1</version>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>23</source>
+                    <target>23</target>
+                </configuration>
+            </plugin>
+        </plugins>
+        <!--resources>
+            <resource>
+                <directory>data/inputs</directory>
+            </resource>
+            <resource>
+                <directory>data/outputs</directory>
+            </resource>
+        </resources-->
+    </build>
+</project>
