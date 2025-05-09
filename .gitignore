@@ -1,2 +1,6 @@
-.idea
+#IDE
+.idea/
 *.key
+#Build
+target/
+data/outputs/
