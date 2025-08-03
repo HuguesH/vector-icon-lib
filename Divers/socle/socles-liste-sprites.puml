@@ -1,0 +1,4 @@
+@startuml
+!include ./socles-sprites.puml
+listsprites
+@enduml
