@@ -1,0 +1,484 @@
+[
+  {
+    "file": "Calendar_Month_Dark.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "calendar",
+      "month",
+      "dark"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Calendar_Month_Gray.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "calendar",
+      "month",
+      "gray"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Calendar_Month_Light.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "calendar",
+      "month",
+      "light"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Checkmark_Circle_Dark.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "checkmark",
+      "circle",
+      "dark"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Checkmark_Circle_Gray.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "checkmark",
+      "circle",
+      "gray"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Checkmark_Circle_Light.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "checkmark",
+      "circle",
+      "light"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Checkmark_Dark.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "checkmark",
+      "dark"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Checkmark_Gray.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "checkmark",
+      "gray"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Checkmark_Light.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "checkmark",
+      "light"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Clipboard_Dark.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "clipboard",
+      "dark"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Clipboard_Gray.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "clipboard",
+      "gray"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Clipboard_Light.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "clipboard",
+      "light"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Clipboard_Task_List_Dark.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "clipboard",
+      "task",
+      "list",
+      "dark"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Clipboard_Task_List_Gray.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "clipboard",
+      "task",
+      "list",
+      "gray"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Clipboard_Task_List_Light.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "clipboard",
+      "task",
+      "list",
+      "light"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Clock_Dark.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "clock",
+      "dark"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Clock_Gray.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "clock",
+      "gray"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Clock_Light.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "clock",
+      "light"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Deploy.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "deploy"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Lightbulb_Dark.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "lightbulb",
+      "dark"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Lightbulb_Gray.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "lightbulb",
+      "gray"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Lightbulb_Light.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "lightbulb",
+      "light"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Organization_Dark.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "organization",
+      "dark"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Organization_Gray.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "organization",
+      "gray"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Organization_Light.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "organization",
+      "light"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Ribbon_Planner_Dark.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "ribbon",
+      "planner",
+      "dark"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Ribbon_Planner_Gray.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "ribbon",
+      "planner",
+      "gray"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Ribbon_Planner_Light.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "ribbon",
+      "planner",
+      "light"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Tap_Dark.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "tap",
+      "dark"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Tap_Gray.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "tap",
+      "gray"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Tap_Light.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "tap",
+      "light"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Task_List_LTR_Dark.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "task",
+      "list",
+      "ltr",
+      "dark"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Task_List_LTR_Gray.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "task",
+      "list",
+      "ltr",
+      "gray"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Task_List_LTR_Light.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "task",
+      "list",
+      "ltr",
+      "light"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Task_List_Square_Dark.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "task",
+      "list",
+      "square",
+      "dark"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Task_List_Square_Gray.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "task",
+      "list",
+      "square",
+      "gray"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Task_List_Square_Light.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "task",
+      "list",
+      "square",
+      "light"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  },
+  {
+    "file": "Window-Edit.svg",
+    "keywords": [
+      "microsoft-365",
+      "planner green",
+      "window",
+      "edit"
+    ],
+    "width": "48",
+    "height": "48",
+    "viewBox": "0 0 48 48"
+  }
+]
