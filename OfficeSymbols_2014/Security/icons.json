@@ -1,0 +1,580 @@
+[
+  {
+    "file": "Active_Directory.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "active",
+      "directory"
+    ],
+    "width": "53px",
+    "height": "46px",
+    "viewBox": "-0.5 -0.5 53 46"
+  },
+  {
+    "file": "Address_Book_Policies.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "address",
+      "book",
+      "policies"
+    ],
+    "width": "85.5",
+    "height": "97.5",
+    "viewBox": "0 0 64.125 73.125"
+  },
+  {
+    "file": "Certificate.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "certificate"
+    ],
+    "width": "104.1",
+    "height": "88.5",
+    "viewBox": "0 0 78.075 66.375"
+  },
+  {
+    "file": "Credentials.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "credentials"
+    ],
+    "width": "94.5",
+    "height": "96",
+    "viewBox": "0 0 70.875 72"
+  },
+  {
+    "file": "Domain.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "domain"
+    ],
+    "width": "79.5",
+    "height": "88.5",
+    "viewBox": "0 0 59.625 66.375"
+  },
+  {
+    "file": "Email_Address_Policy.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "email",
+      "address",
+      "policy"
+    ],
+    "width": "87",
+    "height": "97.5",
+    "viewBox": "0 0 65.25 73.125"
+  },
+  {
+    "file": "Federation_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "federation",
+      "service"
+    ],
+    "width": "99",
+    "height": "99",
+    "viewBox": "0 0 74.25 74.25"
+  },
+  {
+    "file": "Federation_Trust.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "federation",
+      "trust"
+    ],
+    "width": "99",
+    "height": "97.5",
+    "viewBox": "0 0 74.25 73.125"
+  },
+  {
+    "file": "IRM-Protected_Message.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "irm",
+      "protected",
+      "message"
+    ],
+    "width": "101.7",
+    "height": "88.5",
+    "viewBox": "0 0 76.275 66.375"
+  },
+  {
+    "file": "Key_Permissions-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "key",
+      "permissions",
+      "blue"
+    ],
+    "width": "60",
+    "height": "97.5",
+    "viewBox": "0 0 45 73.125"
+  },
+  {
+    "file": "Key_Permissions-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "key",
+      "permissions",
+      "ghosted"
+    ],
+    "width": "57",
+    "height": "97.5",
+    "viewBox": "0 0 42.75 73.125"
+  },
+  {
+    "file": "Key_Permissions-green.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "key",
+      "permissions",
+      "green"
+    ],
+    "width": "58.5",
+    "height": "97.5",
+    "viewBox": "0 0 43.875 73.125"
+  },
+  {
+    "file": "Key_Permissions-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "key",
+      "permissions",
+      "orange"
+    ],
+    "width": "57",
+    "height": "97.5",
+    "viewBox": "0 0 42.75 73.125"
+  },
+  {
+    "file": "Key_Permissions.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "key",
+      "permissions"
+    ],
+    "width": "58.5",
+    "height": "97.5",
+    "viewBox": "0 0 43.875 73.125"
+  },
+  {
+    "file": "lib-office-security-drawio.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "lib",
+      "office",
+      "drawio"
+    ],
+    "width": "352px",
+    "height": "734px",
+    "viewBox": "-0.5 -0.5 352 734"
+  },
+  {
+    "file": "Lock_Protected-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "lock",
+      "protected",
+      "blue"
+    ],
+    "width": "78",
+    "height": "97.5",
+    "viewBox": "0 0 58.5 73.125"
+  },
+  {
+    "file": "Lock_Protected-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "lock",
+      "protected",
+      "ghosted"
+    ],
+    "width": "79.5",
+    "height": "97.5",
+    "viewBox": "0 0 59.625 73.125"
+  },
+  {
+    "file": "Lock_Protected-green.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "lock",
+      "protected",
+      "green"
+    ],
+    "width": "79.5",
+    "height": "97.5",
+    "viewBox": "0 0 59.625 73.125"
+  },
+  {
+    "file": "Lock_Protected-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "lock",
+      "protected",
+      "orange"
+    ],
+    "width": "79.5",
+    "height": "97.5",
+    "viewBox": "0 0 59.625 73.125"
+  },
+  {
+    "file": "Lock_Protected.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "lock",
+      "protected"
+    ],
+    "width": "78",
+    "height": "97.5",
+    "viewBox": "0 0 58.5 73.125"
+  },
+  {
+    "file": "Lock_Unprotected-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "lock",
+      "unprotected",
+      "blue"
+    ],
+    "width": "78",
+    "height": "100.5",
+    "viewBox": "0 0 58.5 75.375"
+  },
+  {
+    "file": "Lock_Unprotected-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "lock",
+      "unprotected",
+      "ghosted"
+    ],
+    "width": "79.5",
+    "height": "100.5",
+    "viewBox": "0 0 59.625 75.375"
+  },
+  {
+    "file": "Lock_Unprotected-green.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "lock",
+      "unprotected",
+      "green"
+    ],
+    "width": "78",
+    "height": "100.5",
+    "viewBox": "0 0 58.5 75.375"
+  },
+  {
+    "file": "Lock_Unprotected-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "lock",
+      "unprotected",
+      "orange"
+    ],
+    "width": "78",
+    "height": "100.5",
+    "viewBox": "0 0 58.5 75.375"
+  },
+  {
+    "file": "Lock_Unprotected.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "lock",
+      "unprotected"
+    ],
+    "width": "78",
+    "height": "100.5",
+    "viewBox": "0 0 58.5 75.375"
+  },
+  {
+    "file": "Lock_with_Key_Security-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "lock",
+      "with",
+      "key",
+      "blue"
+    ],
+    "width": "87",
+    "height": "99",
+    "viewBox": "0 0 65.25 74.25"
+  },
+  {
+    "file": "Lock_with_Key_Security-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "lock",
+      "with",
+      "key",
+      "ghosted"
+    ],
+    "width": "87",
+    "height": "99",
+    "viewBox": "0 0 65.25 74.25"
+  },
+  {
+    "file": "Lock_with_Key_Security-green.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "lock",
+      "with",
+      "key",
+      "green"
+    ],
+    "width": "85.5",
+    "height": "99",
+    "viewBox": "0 0 64.125 74.25"
+  },
+  {
+    "file": "Lock_with_Key_Security-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "lock",
+      "with",
+      "key",
+      "orange"
+    ],
+    "width": "85.5",
+    "height": "99",
+    "viewBox": "0 0 64.125 74.25"
+  },
+  {
+    "file": "Lock_with_Key_Security.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "lock",
+      "with",
+      "key"
+    ],
+    "width": "87",
+    "height": "99",
+    "viewBox": "0 0 65.25 74.25"
+  },
+  {
+    "file": "Management_Role.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "management",
+      "role"
+    ],
+    "width": "87",
+    "height": "87",
+    "viewBox": "0 0 65.25 65.25"
+  },
+  {
+    "file": "Policy.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "policy"
+    ],
+    "width": "84",
+    "height": "91.5",
+    "viewBox": "0 0 63 68.625"
+  },
+  {
+    "file": "Protected_Voice_Mail.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "protected",
+      "voice",
+      "mail"
+    ],
+    "width": "106.5",
+    "height": "87",
+    "viewBox": "0 0 79.875 65.25"
+  },
+  {
+    "file": "Retention_Policy.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "retention",
+      "policy"
+    ],
+    "width": "88.25",
+    "height": "93",
+    "viewBox": "0 0 66.188 69.75"
+  },
+  {
+    "file": "Retention_Policy_Tag.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "retention",
+      "policy",
+      "tag"
+    ],
+    "width": "87",
+    "height": "97.5",
+    "viewBox": "0 0 65.25 73.125"
+  },
+  {
+    "file": "Role_Assignment_Policy.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "role",
+      "assignment",
+      "policy"
+    ],
+    "width": "91.5",
+    "height": "97.5",
+    "viewBox": "0 0 68.625 73.125"
+  },
+  {
+    "file": "Role_Group.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "role",
+      "group"
+    ],
+    "width": "99.825",
+    "height": "87",
+    "viewBox": "0 0 74.869 65.25"
+  },
+  {
+    "file": "Secure_Messaging.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "secure",
+      "messaging"
+    ],
+    "width": "99.9",
+    "height": "81",
+    "viewBox": "0 0 74.925 60.75"
+  },
+  {
+    "file": "Security_Access_Portal.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "access",
+      "portal"
+    ],
+    "width": "103.5",
+    "height": "94.5",
+    "viewBox": "0 0 77.625 70.875"
+  },
+  {
+    "file": "Sharing_Policy.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "sharing",
+      "policy"
+    ],
+    "width": "85.5",
+    "height": "93",
+    "viewBox": "0 0 64.125 69.75"
+  },
+  {
+    "file": "Split-Domain_User.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "split",
+      "domain",
+      "user"
+    ],
+    "width": "97.5",
+    "height": "93",
+    "viewBox": "0 0 73.125 69.75"
+  },
+  {
+    "file": "Token.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "token"
+    ],
+    "width": "29px",
+    "height": "37px",
+    "viewBox": "-0.5 -0.5 29 37"
+  },
+  {
+    "file": "Token_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "token",
+      "service"
+    ],
+    "width": "97.125",
+    "height": "93",
+    "viewBox": "0 0 72.844 69.75"
+  },
+  {
+    "file": "Trusted_Application_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "trusted",
+      "application",
+      "server"
+    ],
+    "width": "84",
+    "height": "100.5",
+    "viewBox": "0 0 63 75.375"
+  },
+  {
+    "file": "UM_Mailbox_Policy.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "um",
+      "mailbox",
+      "policy"
+    ],
+    "width": "94.5",
+    "height": "100.5",
+    "viewBox": "0 0 70.875 75.375"
+  },
+  {
+    "file": "Universal_Security_Group.svg",
+    "keywords": [
+      "officesymbols",
+      "security",
+      "universal",
+      "group"
+    ],
+    "width": "105",
+    "height": "88.5",
+    "viewBox": "0 0 78.75 66.375"
+  }
+]

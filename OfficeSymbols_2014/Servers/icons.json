@@ -1,0 +1,1332 @@
+[
+  {
+    "file": "3rd-Party_Mail_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "3rd",
+      "party",
+      "mail",
+      "server"
+    ],
+    "width": "84",
+    "height": "103.5",
+    "viewBox": "0 0 63 77.625"
+  },
+  {
+    "file": "Active_Directory_Federation_Services_Proxy.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "active",
+      "directory",
+      "federation",
+      "services",
+      "proxy"
+    ],
+    "width": "82.5",
+    "height": "97.5",
+    "viewBox": "0 0 61.875 73.125"
+  },
+  {
+    "file": "Active_Directory_Federation_Services_Server-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "active",
+      "directory",
+      "federation",
+      "services",
+      "server",
+      "blue"
+    ],
+    "width": "77.627",
+    "height": "97.5",
+    "viewBox": "0 0 58.22 73.125"
+  },
+  {
+    "file": "Active_Directory_Federation_Services_Server-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "active",
+      "directory",
+      "federation",
+      "services",
+      "server",
+      "ghosted"
+    ],
+    "width": "76.877",
+    "height": "97.5",
+    "viewBox": "0 0 57.658 73.125"
+  },
+  {
+    "file": "Active_Directory_Federation_Services_Server-green.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "active",
+      "directory",
+      "federation",
+      "services",
+      "server",
+      "green"
+    ],
+    "width": "76.677",
+    "height": "97.5",
+    "viewBox": "0 0 57.508 73.125"
+  },
+  {
+    "file": "Active_Directory_Federation_Services_Server-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "active",
+      "directory",
+      "federation",
+      "services",
+      "server",
+      "orange"
+    ],
+    "width": "76.377",
+    "height": "97.5",
+    "viewBox": "0 0 57.283 73.125"
+  },
+  {
+    "file": "Active_Directory_Federation_Services_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "active",
+      "directory",
+      "federation",
+      "services",
+      "server"
+    ],
+    "width": "45px",
+    "height": "56px",
+    "viewBox": "-0.5 -0.5 45 56"
+  },
+  {
+    "file": "Application_Server-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "application",
+      "server",
+      "blue"
+    ],
+    "width": "79.5",
+    "height": "97.5",
+    "viewBox": "0 0 59.625 73.125"
+  },
+  {
+    "file": "Application_Server-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "application",
+      "server",
+      "ghosted"
+    ],
+    "width": "79.5",
+    "height": "97.5",
+    "viewBox": "0 0 59.625 73.125"
+  },
+  {
+    "file": "Application_Server-green.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "application",
+      "server",
+      "green"
+    ],
+    "width": "78.3",
+    "height": "97.5",
+    "viewBox": "0 0 58.725 73.125"
+  },
+  {
+    "file": "Application_Server-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "application",
+      "server",
+      "orange"
+    ],
+    "width": "79.5",
+    "height": "97.5",
+    "viewBox": "0 0 59.625 73.125"
+  },
+  {
+    "file": "Application_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "application",
+      "server"
+    ],
+    "width": "79.5",
+    "height": "97.5",
+    "viewBox": "0 0 59.625 73.125"
+  },
+  {
+    "file": "Call_Admission_Control_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "call",
+      "admission",
+      "control",
+      "service"
+    ],
+    "width": "88.5",
+    "height": "99",
+    "viewBox": "0 0 66.375 74.25"
+  },
+  {
+    "file": "Certificate_Authority.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "certificate",
+      "authority"
+    ],
+    "width": "78.45",
+    "height": "94.5",
+    "viewBox": "0 0 58.837 70.875"
+  },
+  {
+    "file": "Cluster_Server-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "cluster",
+      "server",
+      "ghosted"
+    ],
+    "width": "88.5",
+    "height": "102",
+    "viewBox": "0 0 66.375 76.5"
+  },
+  {
+    "file": "Cluster_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "cluster",
+      "server"
+    ],
+    "width": "90",
+    "height": "102",
+    "viewBox": "0 0 67.5 76.5"
+  },
+  {
+    "file": "Cluster_Server_-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "cluster",
+      "server",
+      "blue"
+    ],
+    "width": "90",
+    "height": "102",
+    "viewBox": "0 0 67.5 76.5"
+  },
+  {
+    "file": "Cluster_Server_-green.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "cluster",
+      "server",
+      "green"
+    ],
+    "width": "88.5",
+    "height": "102",
+    "viewBox": "0 0 66.375 76.5"
+  },
+  {
+    "file": "Cluster_Server_-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "cluster",
+      "server",
+      "orange"
+    ],
+    "width": "90",
+    "height": "102",
+    "viewBox": "0 0 67.5 76.5"
+  },
+  {
+    "file": "Database_Server-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "database",
+      "server",
+      "blue"
+    ],
+    "width": "79.5",
+    "height": "94.5",
+    "viewBox": "0 0 59.625 70.875"
+  },
+  {
+    "file": "Database_Server-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "database",
+      "server",
+      "ghosted"
+    ],
+    "width": "81",
+    "height": "94.5",
+    "viewBox": "0 0 60.75 70.875"
+  },
+  {
+    "file": "Database_Server-green.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "database",
+      "server",
+      "green"
+    ],
+    "width": "81",
+    "height": "94.5",
+    "viewBox": "0 0 60.75 70.875"
+  },
+  {
+    "file": "Database_Server-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "database",
+      "server",
+      "orange"
+    ],
+    "width": "79.5",
+    "height": "94.5",
+    "viewBox": "0 0 59.625 70.875"
+  },
+  {
+    "file": "Database_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "database",
+      "server"
+    ],
+    "width": "79.5",
+    "height": "94.5",
+    "viewBox": "0 0 59.625 70.875"
+  },
+  {
+    "file": "Datacenter.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "datacenter"
+    ],
+    "width": "79",
+    "height": "79",
+    "viewBox": "0 0 59.25 59.25"
+  },
+  {
+    "file": "DirSync_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "dirsync",
+      "server"
+    ],
+    "width": "81",
+    "height": "93",
+    "viewBox": "0 0 60.75 69.75"
+  },
+  {
+    "file": "Domain_Controller.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "domain",
+      "controller"
+    ],
+    "width": "78",
+    "height": "97.5",
+    "viewBox": "0 0 58.5 73.125"
+  },
+  {
+    "file": "Exchange_2010_Client_Access_Server_Role.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "exchange",
+      "2010",
+      "client",
+      "access",
+      "server",
+      "role"
+    ],
+    "width": "88.35",
+    "height": "100.5",
+    "viewBox": "0 0 66.263 75.375"
+  },
+  {
+    "file": "Exchange_2010_Edge_Transport_Server_Role.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "exchange",
+      "2010",
+      "edge",
+      "transport",
+      "server",
+      "role"
+    ],
+    "width": "87.525",
+    "height": "94.5",
+    "viewBox": "0 0 65.644 70.875"
+  },
+  {
+    "file": "Exchange_2010_Hub_Transport_Server_Role.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "exchange",
+      "2010",
+      "hub",
+      "transport",
+      "server",
+      "role"
+    ],
+    "width": "87.525",
+    "height": "99",
+    "viewBox": "0 0 65.644 74.25"
+  },
+  {
+    "file": "Exchange_2010_Mailbox_Server_Role.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "exchange",
+      "2010",
+      "mailbox",
+      "server",
+      "role"
+    ],
+    "width": "87.175",
+    "height": "99",
+    "viewBox": "0 0 65.381 74.25"
+  },
+  {
+    "file": "Exchange_2010_UM_Server_Role.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "exchange",
+      "2010",
+      "um",
+      "server",
+      "role"
+    ],
+    "width": "87.825",
+    "height": "99",
+    "viewBox": "0 0 65.869 74.25"
+  },
+  {
+    "file": "Exchange_2013_Client_Access_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "exchange",
+      "2013",
+      "client",
+      "access",
+      "server"
+    ],
+    "width": "96",
+    "height": "100.5",
+    "viewBox": "0 0 72 75.375"
+  },
+  {
+    "file": "Exchange_2013_Edge_Transport_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "exchange",
+      "2013",
+      "edge",
+      "transport",
+      "server"
+    ],
+    "width": "94.5",
+    "height": "93",
+    "viewBox": "0 0 70.875 69.75"
+  },
+  {
+    "file": "Exchange_2013_Mailbox_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "exchange",
+      "2013",
+      "mailbox",
+      "server"
+    ],
+    "width": "94.7",
+    "height": "97.5",
+    "viewBox": "0 0 71.025 73.125"
+  },
+  {
+    "file": "Exchange_2013_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "exchange",
+      "2013",
+      "server"
+    ],
+    "width": "94.5",
+    "height": "93",
+    "viewBox": "0 0 70.875 69.75"
+  },
+  {
+    "file": "File_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "file",
+      "server"
+    ],
+    "width": "84",
+    "height": "99",
+    "viewBox": "0 0 63 74.25"
+  },
+  {
+    "file": "Hybrid_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "hybrid",
+      "server"
+    ],
+    "width": "100.5",
+    "height": "91.5",
+    "viewBox": "0 0 75.375 68.625"
+  },
+  {
+    "file": "lib-office-servers-drawio.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "lib",
+      "office",
+      "drawio"
+    ],
+    "width": "404px",
+    "height": "1700px",
+    "viewBox": "-0.5 -0.5 404 1700"
+  },
+  {
+    "file": "Mainframe.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "mainframe"
+    ],
+    "width": "102",
+    "height": "79.5",
+    "viewBox": "0 0 76.5 59.625"
+  },
+  {
+    "file": "Mainframe_Host.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "mainframe",
+      "host"
+    ],
+    "width": "82.5",
+    "height": "78",
+    "viewBox": "0 0 61.875 58.5"
+  },
+  {
+    "file": "Monitoring_SQL_Reporting_Services.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "monitoring",
+      "sql",
+      "reporting",
+      "services"
+    ],
+    "width": "87",
+    "height": "97.5",
+    "viewBox": "0 0 65.25 73.125"
+  },
+  {
+    "file": "Network.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "network"
+    ],
+    "width": "53",
+    "height": "84",
+    "viewBox": "0 0 39.75 63"
+  },
+  {
+    "file": "Office_Web_Apps_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "office",
+      "web",
+      "apps",
+      "server"
+    ],
+    "width": "89.325",
+    "height": "94.5",
+    "viewBox": "0 0 66.994 70.875"
+  },
+  {
+    "file": "On-premises_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "on",
+      "premises",
+      "server"
+    ],
+    "width": "82.5",
+    "height": "94.5",
+    "viewBox": "0 0 61.875 70.875"
+  },
+  {
+    "file": "Physical_Host-solid_blue.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "physical",
+      "host",
+      "solid",
+      "blue"
+    ],
+    "width": "63",
+    "height": "94.5",
+    "viewBox": "0 0 47.25 70.875"
+  },
+  {
+    "file": "Physical_Host_Farm-solid_blue.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "physical",
+      "host",
+      "farm",
+      "solid",
+      "blue"
+    ],
+    "width": "100.5",
+    "height": "88.5",
+    "viewBox": "0 0 75.375 66.375"
+  },
+  {
+    "file": "Reverse_Proxy.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "reverse",
+      "proxy"
+    ],
+    "width": "72.05",
+    "height": "93",
+    "viewBox": "0 0 54.038 69.75"
+  },
+  {
+    "file": "SCOM.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "scom"
+    ],
+    "width": "97.125",
+    "height": "94.5",
+    "viewBox": "0 0 72.844 70.875"
+  },
+  {
+    "file": "Server-side_Code.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "server",
+      "side",
+      "code"
+    ],
+    "width": "84",
+    "height": "97.5",
+    "viewBox": "0 0 63 73.125"
+  },
+  {
+    "file": "Server_Disaster.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "server",
+      "disaster"
+    ],
+    "width": "69.027",
+    "height": "84",
+    "viewBox": "0 0 51.77 63"
+  },
+  {
+    "file": "Server_Farm-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "server",
+      "farm",
+      "blue"
+    ],
+    "width": "97.125",
+    "height": "87",
+    "viewBox": "0 0 72.844 65.25"
+  },
+  {
+    "file": "Server_Farm-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "server",
+      "farm",
+      "ghosted"
+    ],
+    "width": "97.125",
+    "height": "87",
+    "viewBox": "0 0 72.844 65.25"
+  },
+  {
+    "file": "Server_Farm-green.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "server",
+      "farm",
+      "green"
+    ],
+    "width": "97.125",
+    "height": "87",
+    "viewBox": "0 0 72.844 65.25"
+  },
+  {
+    "file": "Server_Farm-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "server",
+      "farm",
+      "orange"
+    ],
+    "width": "97.125",
+    "height": "87",
+    "viewBox": "0 0 72.844 65.25"
+  },
+  {
+    "file": "Server_Farm.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "server",
+      "farm"
+    ],
+    "width": "97.125",
+    "height": "87",
+    "viewBox": "0 0 72.844 65.25"
+  },
+  {
+    "file": "Server_Generic-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "server",
+      "generic",
+      "blue"
+    ],
+    "width": "61.5",
+    "height": "94.5",
+    "viewBox": "0 0 46.125 70.875"
+  },
+  {
+    "file": "Server_Generic-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "server",
+      "generic",
+      "ghosted"
+    ],
+    "width": "60",
+    "height": "94.5",
+    "viewBox": "0 0 45 70.875"
+  },
+  {
+    "file": "Server_Generic-green.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "server",
+      "generic",
+      "green"
+    ],
+    "width": "61.5",
+    "height": "94.5",
+    "viewBox": "0 0 46.125 70.875"
+  },
+  {
+    "file": "Server_Generic-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "server",
+      "generic",
+      "orange"
+    ],
+    "width": "61.5",
+    "height": "94.5",
+    "viewBox": "0 0 46.125 70.875"
+  },
+  {
+    "file": "Server_Generic.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "server",
+      "generic"
+    ],
+    "width": "63",
+    "height": "94.5",
+    "viewBox": "0 0 47.25 70.875"
+  },
+  {
+    "file": "SharePoint_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "sharepoint",
+      "server"
+    ],
+    "width": "94.5",
+    "height": "93",
+    "viewBox": "0 0 70.875 69.75"
+  },
+  {
+    "file": "Skype_for_Business_Back-End_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "skype",
+      "for",
+      "business",
+      "back",
+      "end",
+      "server"
+    ],
+    "width": "92.325",
+    "height": "97.5",
+    "viewBox": "0 0 69.244 73.125"
+  },
+  {
+    "file": "Skype_for_Business_Back-End_Server_Mirror.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "skype",
+      "for",
+      "business",
+      "back",
+      "end",
+      "server",
+      "mirror"
+    ],
+    "width": "95.025",
+    "height": "97.5",
+    "viewBox": "0 0 71.269 73.125"
+  },
+  {
+    "file": "Skype_for_Business_Director.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "skype",
+      "for",
+      "business",
+      "director"
+    ],
+    "width": "91.725",
+    "height": "94.5",
+    "viewBox": "0 0 68.794 70.875"
+  },
+  {
+    "file": "Skype_for_Business_Director_Array.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "skype",
+      "for",
+      "business",
+      "director",
+      "array"
+    ],
+    "width": "117",
+    "height": "102",
+    "viewBox": "0 0 87.75 76.5"
+  },
+  {
+    "file": "Skype_for_Business_Edge_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "skype",
+      "for",
+      "business",
+      "edge",
+      "server"
+    ],
+    "width": "92.625",
+    "height": "96",
+    "viewBox": "0 0 69.469 72"
+  },
+  {
+    "file": "Skype_for_Business_Edge_Server_Pool.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "skype",
+      "for",
+      "business",
+      "edge",
+      "server",
+      "pool"
+    ],
+    "width": "114",
+    "height": "100.5",
+    "viewBox": "0 0 85.5 75.375"
+  },
+  {
+    "file": "Skype_for_Business_Front-End_Pool.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "skype",
+      "for",
+      "business",
+      "front",
+      "end",
+      "pool"
+    ],
+    "width": "115.5",
+    "height": "100.5",
+    "viewBox": "0 0 86.625 75.375"
+  },
+  {
+    "file": "Skype_for_Business_Front-End_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "skype",
+      "for",
+      "business",
+      "front",
+      "end",
+      "server"
+    ],
+    "width": "91.725",
+    "height": "99",
+    "viewBox": "0 0 68.794 74.25"
+  },
+  {
+    "file": "Skype_for_Business_Mediation_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "skype",
+      "for",
+      "business",
+      "mediation",
+      "server"
+    ],
+    "width": "91.425",
+    "height": "100.5",
+    "viewBox": "0 0 68.569 75.375"
+  },
+  {
+    "file": "Skype_for_Business_Monitoring_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "skype",
+      "for",
+      "business",
+      "monitoring",
+      "server"
+    ],
+    "width": "91.125",
+    "height": "100.5",
+    "viewBox": "0 0 68.344 75.375"
+  },
+  {
+    "file": "Skype_for_Business_Persistent_Chat_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "skype",
+      "for",
+      "business",
+      "persistent",
+      "chat",
+      "server"
+    ],
+    "width": "92.325",
+    "height": "97.5",
+    "viewBox": "0 0 69.244 73.125"
+  },
+  {
+    "file": "Skype_for_Business_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "skype",
+      "for",
+      "business",
+      "server"
+    ],
+    "width": "90.525",
+    "height": "97.5",
+    "viewBox": "0 0 67.894 73.125"
+  },
+  {
+    "file": "SQL_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "sql",
+      "server"
+    ],
+    "width": "79.5",
+    "height": "97.5",
+    "viewBox": "0 0 59.625 73.125"
+  },
+  {
+    "file": "Survivable_Branch_Appliance.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "survivable",
+      "branch",
+      "appliance"
+    ],
+    "width": "70.5",
+    "height": "97.5",
+    "viewBox": "0 0 52.875 73.125"
+  },
+  {
+    "file": "Survivable_Branch_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "survivable",
+      "branch",
+      "server"
+    ],
+    "width": "76.5",
+    "height": "97.5",
+    "viewBox": "0 0 57.375 73.125"
+  },
+  {
+    "file": "Topology_Builder.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "topology",
+      "builder"
+    ],
+    "width": "97.125",
+    "height": "97.5",
+    "viewBox": "0 0 72.844 73.125"
+  },
+  {
+    "file": "Trusted_Application_Pool.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "trusted",
+      "application",
+      "pool"
+    ],
+    "width": "87",
+    "height": "87",
+    "viewBox": "0 0 65.25 65.25"
+  },
+  {
+    "file": "Trusted_Application_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "trusted",
+      "application",
+      "server"
+    ],
+    "width": "81",
+    "height": "94.5",
+    "viewBox": "0 0 60.75 70.875"
+  },
+  {
+    "file": "Tunnel_Angled.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "tunnel",
+      "angled"
+    ],
+    "width": "84",
+    "height": "55.5",
+    "viewBox": "0 0 63 41.625"
+  },
+  {
+    "file": "Tunnel_Straight.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "tunnel",
+      "straight"
+    ],
+    "width": "102",
+    "height": "37.5",
+    "viewBox": "0 0 76.5 28.125"
+  },
+  {
+    "file": "Video_Interop_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "video",
+      "interop",
+      "server"
+    ],
+    "width": "98.4",
+    "height": "100.5",
+    "viewBox": "0 0 73.8 75.375"
+  },
+  {
+    "file": "Virtual_Application_Server-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "virtual",
+      "application",
+      "server",
+      "blue"
+    ],
+    "width": "82.5",
+    "height": "94.5",
+    "viewBox": "0 0 61.875 70.875"
+  },
+  {
+    "file": "Virtual_Application_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "virtual",
+      "application",
+      "server"
+    ],
+    "width": "84",
+    "height": "94.5",
+    "viewBox": "0 0 63 70.875"
+  },
+  {
+    "file": "Virtual_Database_Server-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "virtual",
+      "database",
+      "server",
+      "blue"
+    ],
+    "width": "76.5",
+    "height": "94.5",
+    "viewBox": "0 0 57.375 70.875"
+  },
+  {
+    "file": "Virtual_Database_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "virtual",
+      "database",
+      "server"
+    ],
+    "width": "78",
+    "height": "94.5",
+    "viewBox": "0 0 58.5 70.875"
+  },
+  {
+    "file": "Virtual_Server-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "virtual",
+      "server",
+      "blue"
+    ],
+    "width": "61.5",
+    "height": "91.5",
+    "viewBox": "0 0 46.125 68.625"
+  },
+  {
+    "file": "Virtual_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "virtual",
+      "server"
+    ],
+    "width": "63",
+    "height": "91.5",
+    "viewBox": "0 0 47.25 68.625"
+  },
+  {
+    "file": "Virtual_Web_server-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "virtual",
+      "web",
+      "server",
+      "blue"
+    ],
+    "width": "78",
+    "height": "96",
+    "viewBox": "0 0 58.5 72"
+  },
+  {
+    "file": "Virtual_Web_server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "virtual",
+      "web",
+      "server"
+    ],
+    "width": "78",
+    "height": "96",
+    "viewBox": "0 0 58.5 72"
+  },
+  {
+    "file": "Voicemail_Preview_Partner.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "voicemail",
+      "preview",
+      "partner"
+    ],
+    "width": "79.5",
+    "height": "94.5",
+    "viewBox": "0 0 59.625 70.875"
+  },
+  {
+    "file": "Web_Server-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "web",
+      "server",
+      "blue"
+    ],
+    "width": "81",
+    "height": "96",
+    "viewBox": "0 0 60.75 72"
+  },
+  {
+    "file": "Web_Server-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "web",
+      "server",
+      "ghosted"
+    ],
+    "width": "81",
+    "height": "96",
+    "viewBox": "0 0 60.75 72"
+  },
+  {
+    "file": "Web_Server-green.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "web",
+      "server",
+      "green"
+    ],
+    "width": "81",
+    "height": "96",
+    "viewBox": "0 0 60.75 72"
+  },
+  {
+    "file": "Web_Server-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "web",
+      "server",
+      "orange"
+    ],
+    "width": "81.25",
+    "height": "96",
+    "viewBox": "0 0 60.938 72"
+  },
+  {
+    "file": "Web_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "web",
+      "server"
+    ],
+    "width": "48px",
+    "height": "57px",
+    "viewBox": "-0.5 -0.5 48 57"
+  },
+  {
+    "file": "Windows_Router.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "windows",
+      "router"
+    ],
+    "width": "87.825",
+    "height": "96",
+    "viewBox": "0 0 65.869 72"
+  },
+  {
+    "file": "Windows_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "servers",
+      "windows",
+      "server"
+    ],
+    "width": "89.025",
+    "height": "94.5",
+    "viewBox": "0 0 66.769 70.875"
+  }
+]

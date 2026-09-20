@@ -1,0 +1,283 @@
+[
+  {
+    "file": "Apache-feather.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "apache",
+      "feather"
+    ],
+    "width": "1e3",
+    "height": "262.05",
+    "viewBox": "0 0 1000 262.04547"
+  },
+  {
+    "file": "Apache-Kafka.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "apache",
+      "kafka"
+    ],
+    "width": "18.922",
+    "height": "30.721",
+    "viewBox": "0 0 31.454 51.12"
+  },
+  {
+    "file": "Apache-Tomcat-Face.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "apache",
+      "tomcat",
+      "face"
+    ],
+    "width": "108.95398",
+    "height": "129.71484",
+    "viewBox": "0 0 108.95398 129.71484"
+  },
+  {
+    "file": "Apache-Tomcat.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "apache",
+      "tomcat"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  },
+  {
+    "file": "bucket.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "bucket"
+    ],
+    "width": "45px",
+    "height": "47px",
+    "viewBox": "-0.5 -0.5 45 47"
+  },
+  {
+    "file": "Debian.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "debian"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  },
+  {
+    "file": "Docker.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "docker"
+    ],
+    "width": "512",
+    "height": "512",
+    "viewBox": "0 0 512 512"
+  },
+  {
+    "file": "F5_Networks.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "f5",
+      "networks"
+    ],
+    "width": "329.983165",
+    "height": "303.045763",
+    "viewBox": "0 0 48.5 44.5"
+  },
+  {
+    "file": "keycloak-txt.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "keycloak",
+      "txt"
+    ],
+    "width": "729.577",
+    "height": "150.658",
+    "viewBox": "0 0 193.036 39.861"
+  },
+  {
+    "file": "keycloak.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "keycloak"
+    ],
+    "width": "167.114",
+    "height": "150.658",
+    "viewBox": "0 0 44.216 39.861"
+  },
+  {
+    "file": "kong-txt.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "kong",
+      "txt"
+    ],
+    "width": "800px",
+    "height": "800px",
+    "viewBox": "0 -172.5 512 512"
+  },
+  {
+    "file": "kong.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "kong"
+    ],
+    "width": "800px",
+    "height": "800px",
+    "viewBox": "0 -172.5 512 512"
+  },
+  {
+    "file": "Kubernetes.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "kubernetes"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  },
+  {
+    "file": "Nginx.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "nginx"
+    ],
+    "width": "115.11875",
+    "height": "24.187275",
+    "viewBox": "0 0 115.11875 24.187275"
+  },
+  {
+    "file": "Podman-txt.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "podman",
+      "txt"
+    ],
+    "width": "862.71112",
+    "height": "231.40778",
+    "viewBox": "0 0 228.25899 61.226642"
+  },
+  {
+    "file": "Podman.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "podman"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  },
+  {
+    "file": "Red_Hat-ghost.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "red",
+      "hat",
+      "ghost"
+    ],
+    "width": "43.907001",
+    "height": "38.836391",
+    "viewBox": "0 0 43.907001 38.836391"
+  },
+  {
+    "file": "Red_Hat-txt.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "red",
+      "hat",
+      "txt"
+    ],
+    "width": "137px",
+    "height": "44px",
+    "viewBox": "0 0 137 44"
+  },
+  {
+    "file": "Red_Hat.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "red",
+      "hat"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  },
+  {
+    "file": "Red_Hat_hat.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "red",
+      "hat"
+    ],
+    "width": "192.3",
+    "height": "146",
+    "viewBox": "0 0 192.30001 146"
+  },
+  {
+    "file": "ServerDocuments.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "serverdocuments"
+    ],
+    "width": "64px",
+    "height": "79px",
+    "viewBox": "-0.5 -0.5 64 79"
+  },
+  {
+    "file": "sheduler.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "sheduler"
+    ],
+    "width": "70px",
+    "height": "70px",
+    "viewBox": "-0.5 -0.5 70 70"
+  },
+  {
+    "file": "spring-cloud-gateway.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "spring",
+      "cloud",
+      "gateway"
+    ],
+    "width": "90",
+    "height": "99.329079",
+    "viewBox": "0 0 53.55 59.100802"
+  },
+  {
+    "file": "vmware.svg",
+    "keywords": [
+      "divers",
+      "socle",
+      "vmware"
+    ],
+    "width": "512px",
+    "height": "512px",
+    "viewBox": "0 0 5120 5120"
+  }
+]

@@ -1,0 +1,608 @@
+[
+  {
+    "file": "CD-DVD.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "cd",
+      "dvd"
+    ],
+    "width": "90",
+    "height": "88.5",
+    "viewBox": "0 0 67.5 66.375"
+  },
+  {
+    "file": "Cell_Phone_Android_Proportional.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "cell",
+      "phone",
+      "android",
+      "proportional"
+    ],
+    "width": "46.5",
+    "height": "63",
+    "viewBox": "0 0 34.875 47.25"
+  },
+  {
+    "file": "Cell_Phone_Android_Stand-alone.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "cell",
+      "phone",
+      "android",
+      "stand",
+      "alone"
+    ],
+    "width": "52.5",
+    "height": "76.5",
+    "viewBox": "0 0 39.375 57.375"
+  },
+  {
+    "file": "Cell_Phone_Generic.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "cell",
+      "phone",
+      "generic"
+    ],
+    "width": "26px",
+    "height": "47px",
+    "viewBox": "-0.5 -0.5 26 47"
+  },
+  {
+    "file": "Cell_Phone_iPhone_Proportional.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "cell",
+      "phone",
+      "iphone",
+      "proportional"
+    ],
+    "width": "42",
+    "height": "58.5",
+    "viewBox": "0 0 31.5 43.875"
+  },
+  {
+    "file": "Cell_Phone_iPhone_Stand-alone.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "cell",
+      "phone",
+      "iphone",
+      "stand",
+      "alone"
+    ],
+    "width": "48",
+    "height": "75",
+    "viewBox": "0 0 36 56.25"
+  },
+  {
+    "file": "Cell_Phone_Windows_Phone_Proportional.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "cell",
+      "phone",
+      "windows",
+      "proportional"
+    ],
+    "width": "39",
+    "height": "55.5",
+    "viewBox": "0 0 29.25 41.625"
+  },
+  {
+    "file": "Cell_Phone_Windows_Phone_Stand-alone.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "cell",
+      "phone",
+      "windows",
+      "stand",
+      "alone"
+    ],
+    "width": "49.5",
+    "height": "73.5",
+    "viewBox": "0 0 37.125 55.125"
+  },
+  {
+    "file": "Data_Jack.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "data",
+      "jack"
+    ],
+    "width": "85.5",
+    "height": "85.5",
+    "viewBox": "0 0 64.125 64.125"
+  },
+  {
+    "file": "Device_Bluetooth.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "bluetooth"
+    ],
+    "width": "87",
+    "height": "97.5",
+    "viewBox": "0 0 65.25 73.125"
+  },
+  {
+    "file": "Device_Fax.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "fax"
+    ],
+    "width": "102",
+    "height": "85.5",
+    "viewBox": "0 0 76.5 64.125"
+  },
+  {
+    "file": "Device_Headset.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "headset"
+    ],
+    "width": "75",
+    "height": "87",
+    "viewBox": "0 0 56.25 65.25"
+  },
+  {
+    "file": "Device_Laptop.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "laptop"
+    ],
+    "width": "58px",
+    "height": "34px",
+    "viewBox": "-0.5 -0.5 58 34"
+  },
+  {
+    "file": "Device_LCD_Monitor.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "lcd",
+      "monitor"
+    ],
+    "width": "58px",
+    "height": "48px",
+    "viewBox": "-0.5 -0.5 58 48"
+  },
+  {
+    "file": "Device_Mac_Client.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "mac",
+      "client"
+    ],
+    "width": "105",
+    "height": "88.5",
+    "viewBox": "0 0 78.75 66.375"
+  },
+  {
+    "file": "Device_Microphone.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "microphone"
+    ],
+    "width": "90",
+    "height": "73.5",
+    "viewBox": "0 0 67.5 55.125"
+  },
+  {
+    "file": "Device_Phone_Digital.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "phone",
+      "digital"
+    ],
+    "width": "93",
+    "height": "82.5",
+    "viewBox": "0 0 69.75 61.875"
+  },
+  {
+    "file": "Device_Phone_Traditional.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "phone",
+      "traditional"
+    ],
+    "width": "85.5",
+    "height": "79.5",
+    "viewBox": "0 0 64.125 59.625"
+  },
+  {
+    "file": "Device_Phone_USB.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "phone",
+      "usb"
+    ],
+    "width": "103.5",
+    "height": "83.25",
+    "viewBox": "0 0 77.625 62.438"
+  },
+  {
+    "file": "Device_Phone_VoIP.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "phone",
+      "voip"
+    ],
+    "width": "99",
+    "height": "85.5",
+    "viewBox": "0 0 74.25 64.125"
+  },
+  {
+    "file": "Device_Printer.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "printer"
+    ],
+    "width": "102",
+    "height": "88.5",
+    "viewBox": "0 0 76.5 66.375"
+  },
+  {
+    "file": "Device_RoundTable.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "roundtable"
+    ],
+    "width": "76.5",
+    "height": "103.5",
+    "viewBox": "0 0 57.375 77.625"
+  },
+  {
+    "file": "Device_Stylus.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "stylus"
+    ],
+    "width": "85.75",
+    "height": "85.5",
+    "viewBox": "0 0 64.313 64.125"
+  },
+  {
+    "file": "Device_Tablet_Android.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "tablet",
+      "android"
+    ],
+    "width": "103.5",
+    "height": "76.5",
+    "viewBox": "0 0 77.625 57.375"
+  },
+  {
+    "file": "Device_Tablet_iPad.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "tablet",
+      "ipad"
+    ],
+    "width": "39px",
+    "height": "52px",
+    "viewBox": "-0.5 -0.5 39 52"
+  },
+  {
+    "file": "Device_Tablet_iPad_Mini.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "tablet",
+      "ipad",
+      "mini"
+    ],
+    "width": "75",
+    "height": "91.5",
+    "viewBox": "0 0 56.25 68.625"
+  },
+  {
+    "file": "Device_Tablet_Windows_7-inch.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "tablet",
+      "windows",
+      "7",
+      "inch"
+    ],
+    "width": "76.5",
+    "height": "91.5",
+    "viewBox": "0 0 57.375 68.625"
+  },
+  {
+    "file": "Device_Tablet_Windows_8.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "tablet",
+      "windows",
+      "8"
+    ],
+    "width": "106.5",
+    "height": "76.5",
+    "viewBox": "0 0 79.875 57.375"
+  },
+  {
+    "file": "Device_TV.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "tv"
+    ],
+    "width": "108",
+    "height": "87",
+    "viewBox": "0 0 81 65.25"
+  },
+  {
+    "file": "Device_Update_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "update",
+      "service"
+    ],
+    "width": "90",
+    "height": "97.5",
+    "viewBox": "0 0 67.5 73.125"
+  },
+  {
+    "file": "Device_Webcam.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "webcam"
+    ],
+    "width": "81",
+    "height": "97.5",
+    "viewBox": "0 0 60.75 73.125"
+  },
+  {
+    "file": "Device_Webcam_HD.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "device",
+      "webcam",
+      "hd"
+    ],
+    "width": "93",
+    "height": "103.5",
+    "viewBox": "0 0 69.75 77.625"
+  },
+  {
+    "file": "Hard_Disk.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "hard",
+      "disk"
+    ],
+    "width": "82.5",
+    "height": "97.5",
+    "viewBox": "0 0 61.875 73.125"
+  },
+  {
+    "file": "IP-PBX.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "ip",
+      "pbx"
+    ],
+    "width": "111",
+    "height": "72",
+    "viewBox": "0 0 83.25 54"
+  },
+  {
+    "file": "IP_Gateway.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "ip",
+      "gateway"
+    ],
+    "width": "111",
+    "height": "72",
+    "viewBox": "0 0 83.25 54"
+  },
+  {
+    "file": "Load_Balancer.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "load",
+      "balancer"
+    ],
+    "width": "111",
+    "height": "73.5",
+    "viewBox": "0 0 83.25 55.125"
+  },
+  {
+    "file": "Management_Console.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "management",
+      "console"
+    ],
+    "width": "58px",
+    "height": "48px",
+    "viewBox": "-0.5 -0.5 58 48"
+  },
+  {
+    "file": "Modem.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "modem"
+    ],
+    "width": "97.125",
+    "height": "63",
+    "viewBox": "0 0 72.844 47.25"
+  },
+  {
+    "file": "NIC.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "nic"
+    ],
+    "width": "99",
+    "height": "73.5",
+    "viewBox": "0 0 74.25 55.125"
+  },
+  {
+    "file": "Router.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "router"
+    ],
+    "width": "101.1",
+    "height": "91.75",
+    "viewBox": "0 0 75.825 68.813"
+  },
+  {
+    "file": "Session_Border_Controller.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "session",
+      "border",
+      "controller"
+    ],
+    "width": "108",
+    "height": "79.5",
+    "viewBox": "0 0 81 59.625"
+  },
+  {
+    "file": "Shadowed_Router.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "shadowed",
+      "router"
+    ],
+    "width": "108",
+    "height": "96",
+    "viewBox": "0 0 81 72"
+  },
+  {
+    "file": "Switch.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "switch"
+    ],
+    "width": "106.5",
+    "height": "55.5",
+    "viewBox": "0 0 79.875 41.625"
+  },
+  {
+    "file": "Video_Camera.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "video",
+      "camera"
+    ],
+    "width": "99.525",
+    "height": "58.5",
+    "viewBox": "0 0 74.644 43.875"
+  },
+  {
+    "file": "Video_Gateway.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "video",
+      "gateway"
+    ],
+    "width": "106.5",
+    "height": "82.5",
+    "viewBox": "0 0 79.875 61.875"
+  },
+  {
+    "file": "Workstation.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "workstation"
+    ],
+    "width": "98.4",
+    "height": "100.5",
+    "viewBox": "0 0 73.8 75.375"
+  },
+  {
+    "file": "Workstation_PC.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "workstation",
+      "pc"
+    ],
+    "width": "98.7",
+    "height": "102",
+    "viewBox": "0 0 74.025 76.5"
+  },
+  {
+    "file": "Workstation_Visual_Studio.svg",
+    "keywords": [
+      "officesymbols",
+      "devices",
+      "workstation",
+      "visual",
+      "studio"
+    ],
+    "width": "99",
+    "height": "100.5",
+    "viewBox": "0 0 74.25 75.375"
+  }
+]

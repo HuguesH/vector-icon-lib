@@ -1,0 +1,49 @@
+[
+  {
+    "file": "Inspire.svg",
+    "keywords": [
+      "divers",
+      "progiciels",
+      "inspire"
+    ],
+    "width": "210mm",
+    "height": "297mm",
+    "viewBox": "0 0 210 297"
+  },
+  {
+    "file": "InspireDocument.svg",
+    "keywords": [
+      "divers",
+      "progiciels",
+      "inspiredocument"
+    ],
+    "width": "81px",
+    "height": "88px",
+    "viewBox": "-0.5 -0.5 81 88"
+  },
+  {
+    "file": "Prima-p&c.svg",
+    "keywords": [
+      "divers",
+      "progiciels",
+      "prima",
+      "p",
+      "c"
+    ],
+    "width": "67.68",
+    "height": "67.68",
+    "viewBox": "0 0 67.680002 67.680002"
+  },
+  {
+    "file": "Prima-Pilot.svg",
+    "keywords": [
+      "divers",
+      "progiciels",
+      "prima",
+      "pilot"
+    ],
+    "width": "84.5",
+    "height": "84.5",
+    "viewBox": "0 0 84.5 84.5"
+  }
+]

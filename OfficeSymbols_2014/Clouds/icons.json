@@ -1,0 +1,163 @@
+[
+  {
+    "file": "Azure.svg",
+    "keywords": [
+      "officesymbols",
+      "clouds",
+      "azure"
+    ],
+    "width": "97.125",
+    "height": "69",
+    "viewBox": "0 0 72.844 51.75"
+  },
+  {
+    "file": "Cloud.svg",
+    "keywords": [
+      "officesymbols",
+      "clouds",
+      "cloud"
+    ],
+    "width": "97.125",
+    "height": "64.5",
+    "viewBox": "0 0 72.844 48.375"
+  },
+  {
+    "file": "Cloud_Disaster.svg",
+    "keywords": [
+      "officesymbols",
+      "clouds",
+      "cloud",
+      "disaster"
+    ],
+    "width": "97.125",
+    "height": "81",
+    "viewBox": "0 0 72.844 60.75"
+  },
+  {
+    "file": "Cloud_Disaster_red.svg",
+    "keywords": [
+      "officesymbols",
+      "clouds",
+      "cloud",
+      "disaster",
+      "red"
+    ],
+    "width": "97.125",
+    "height": "81",
+    "viewBox": "0 0 72.844 60.75"
+  },
+  {
+    "file": "Cloud_Exchange_Online.svg",
+    "keywords": [
+      "officesymbols",
+      "clouds",
+      "cloud",
+      "exchange",
+      "online"
+    ],
+    "width": "105",
+    "height": "78",
+    "viewBox": "0 0 78.75 58.5"
+  },
+  {
+    "file": "Cloud_Service_Request.svg",
+    "keywords": [
+      "officesymbols",
+      "clouds",
+      "cloud",
+      "service",
+      "request"
+    ],
+    "width": "97.125",
+    "height": "84",
+    "viewBox": "0 0 72.844 63"
+  },
+  {
+    "file": "Cloud_SharePoint_Online.svg",
+    "keywords": [
+      "officesymbols",
+      "clouds",
+      "cloud",
+      "sharepoint",
+      "online"
+    ],
+    "width": "105",
+    "height": "78",
+    "viewBox": "0 0 78.75 58.5"
+  },
+  {
+    "file": "Office_365_Cloud.svg",
+    "keywords": [
+      "officesymbols",
+      "clouds",
+      "office",
+      "365",
+      "cloud"
+    ],
+    "width": "97.125",
+    "height": "64.5",
+    "viewBox": "0 0 72.844 48.375"
+  },
+  {
+    "file": "Online_Backup.svg",
+    "keywords": [
+      "officesymbols",
+      "clouds",
+      "online",
+      "backup"
+    ],
+    "width": "97.125",
+    "height": "97.5",
+    "viewBox": "0 0 72.844 73.125"
+  },
+  {
+    "file": "Online_User.svg",
+    "keywords": [
+      "officesymbols",
+      "clouds",
+      "online",
+      "user"
+    ],
+    "width": "97.125",
+    "height": "79.5",
+    "viewBox": "0 0 72.844 59.625"
+  },
+  {
+    "file": "Private_Cloud.svg",
+    "keywords": [
+      "officesymbols",
+      "clouds",
+      "private",
+      "cloud"
+    ],
+    "width": "97.125",
+    "height": "67.5",
+    "viewBox": "0 0 72.844 50.625"
+  },
+  {
+    "file": "Public_Cloud.svg",
+    "keywords": [
+      "officesymbols",
+      "clouds",
+      "public",
+      "cloud"
+    ],
+    "width": "97.125",
+    "height": "79.5",
+    "viewBox": "0 0 72.844 59.625"
+  },
+  {
+    "file": "Public_IM_Cloud_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "clouds",
+      "public",
+      "im",
+      "cloud",
+      "service"
+    ],
+    "width": "97.125",
+    "height": "93",
+    "viewBox": "0 0 72.844 69.75"
+  }
+]

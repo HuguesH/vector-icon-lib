@@ -1,0 +1,51 @@
+[
+  {
+    "file": "file-pdf.svg",
+    "keywords": [
+      "divers",
+      "web",
+      "file",
+      "pdf"
+    ],
+    "width": "60",
+    "height": "60",
+    "viewBox": "0 0 60 60"
+  },
+  {
+    "file": "g-chrome.svg",
+    "keywords": [
+      "divers",
+      "web",
+      "g",
+      "chrome"
+    ],
+    "width": "45.088",
+    "height": "45.04"
+  },
+  {
+    "file": "Google-Cloud.svg",
+    "keywords": [
+      "divers",
+      "web",
+      "google",
+      "cloud"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  },
+  {
+    "file": "ms_Edge_no-gradient.svg",
+    "keywords": [
+      "divers",
+      "web",
+      "ms",
+      "edge",
+      "no",
+      "gradient"
+    ],
+    "width": "45",
+    "height": "45",
+    "viewBox": "0 0 48.000008 48.245232"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "file": "C_sharp.svg",
+    "keywords": [
+      "divers",
+      "lang",
+      "c",
+      "sharp"
+    ],
+    "width": "256px",
+    "height": "288px",
+    "viewBox": "0 0 256 288"
+  },
+  {
+    "file": "Java.svg",
+    "keywords": [
+      "divers",
+      "lang",
+      "java"
+    ],
+    "width": "33.340314",
+    "height": "45.205508",
+    "viewBox": "0 0 333.40313 452.05509"
+  },
+  {
+    "file": "Javascript.svg",
+    "keywords": [
+      "divers",
+      "lang",
+      "javascript"
+    ],
+    "width": "45px",
+    "height": "45px",
+    "viewBox": "0 0 256 256"
+  },
+  {
+    "file": "NodeJS.svg",
+    "keywords": [
+      "divers",
+      "lang",
+      "nodejs"
+    ],
+    "width": "211px",
+    "height": "239px",
+    "viewBox": "0 0 2110 2390"
+  },
+  {
+    "file": "PHP.svg",
+    "keywords": [
+      "divers",
+      "lang",
+      "php"
+    ],
+    "width": "711.20123",
+    "height": "383.5975",
+    "viewBox": "0 0 711.20123 383.5975"
+  },
+  {
+    "file": "Python.svg",
+    "keywords": [
+      "divers",
+      "lang",
+      "python"
+    ],
+    "width": "47.405",
+    "height": "47.932"
+  },
+  {
+    "file": "Typescript.svg",
+    "keywords": [
+      "divers",
+      "lang",
+      "typescript"
+    ],
+    "width": "260",
+    "height": "260",
+    "viewBox": "0 0 260 260"
+  }
+]

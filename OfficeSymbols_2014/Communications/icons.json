@@ -1,0 +1,923 @@
+[
+  {
+    "file": "3rd_Party_Call_Center_Solution.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "3rd",
+      "party",
+      "call",
+      "center",
+      "solution"
+    ],
+    "width": "82",
+    "height": "84",
+    "viewBox": "0 0 61.5 63"
+  },
+  {
+    "file": "3rd_Party_Integration.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "3rd",
+      "party",
+      "integration"
+    ],
+    "width": "80",
+    "height": "82",
+    "viewBox": "0 0 60 61.5"
+  },
+  {
+    "file": "3rd_Party_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "3rd",
+      "party",
+      "service"
+    ],
+    "width": "78.96",
+    "height": "80",
+    "viewBox": "0 0 59.22 60"
+  },
+  {
+    "file": "Application_Sharing_Workload.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "application",
+      "sharing",
+      "workload"
+    ],
+    "width": "83",
+    "height": "73",
+    "viewBox": "0 0 62.25 54.75"
+  },
+  {
+    "file": "Audio_Conferencing_Application.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "audio",
+      "conferencing",
+      "application"
+    ],
+    "width": "85.948",
+    "height": "68.6",
+    "viewBox": "0 0 64.461 51.45"
+  },
+  {
+    "file": "Central_Management_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "central",
+      "management",
+      "service"
+    ],
+    "width": "75.689",
+    "height": "80.3",
+    "viewBox": "0 0 56.767 60.225"
+  },
+  {
+    "file": "Chat_Room.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "chat",
+      "room"
+    ],
+    "width": "69",
+    "height": "71",
+    "viewBox": "0 0 51.75 53.25"
+  },
+  {
+    "file": "Conference_Announcement_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "conference",
+      "announcement",
+      "service"
+    ],
+    "width": "86.7",
+    "height": "87",
+    "viewBox": "0 0 65.025 65.25"
+  },
+  {
+    "file": "Disconnected_Mailbox.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "disconnected",
+      "mailbox"
+    ],
+    "width": "87",
+    "height": "81",
+    "viewBox": "0 0 65.25 60.75"
+  },
+  {
+    "file": "Discovery_Search_Mailbox.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "discovery",
+      "search",
+      "mailbox"
+    ],
+    "width": "80.169",
+    "height": "73",
+    "viewBox": "0 0 60.126 54.75"
+  },
+  {
+    "file": "Dynamic_Distribution_Group.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "dynamic",
+      "distribution",
+      "group"
+    ],
+    "width": "85.9",
+    "height": "87",
+    "viewBox": "0 0 64.425 65.25"
+  },
+  {
+    "file": "Edge_Subscription.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "edge",
+      "subscription"
+    ],
+    "width": "85.013",
+    "height": "85",
+    "viewBox": "0 0 63.76 63.75"
+  },
+  {
+    "file": "Email_Workload.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "email",
+      "workload"
+    ],
+    "width": "84",
+    "height": "71",
+    "viewBox": "0 0 63 53.25"
+  },
+  {
+    "file": "Equipment_Mailbox.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "equipment",
+      "mailbox"
+    ],
+    "width": "87",
+    "height": "87",
+    "viewBox": "0 0 65.25 65.25"
+  },
+  {
+    "file": "Exchange_Active_Sync-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "exchange",
+      "active",
+      "sync",
+      "blue"
+    ],
+    "width": "73",
+    "height": "73",
+    "viewBox": "0 0 54.75 54.75"
+  },
+  {
+    "file": "Exchange_Active_Sync.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "exchange",
+      "active",
+      "sync"
+    ],
+    "width": "73",
+    "height": "73",
+    "viewBox": "0 0 54.75 54.75"
+  },
+  {
+    "file": "Fax_Partner.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "fax",
+      "partner"
+    ],
+    "width": "68",
+    "height": "83",
+    "viewBox": "0 0 51 62.25"
+  },
+  {
+    "file": "Global_Address_List.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "global",
+      "address",
+      "list"
+    ],
+    "width": "86",
+    "height": "78",
+    "viewBox": "0 0 64.5 58.5"
+  },
+  {
+    "file": "Hybrid_VoIP_Gateway.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "hybrid",
+      "voip",
+      "gateway"
+    ],
+    "width": "87.1",
+    "height": "59",
+    "viewBox": "0 0 65.325 44.25"
+  },
+  {
+    "file": "IM_Workload.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "im",
+      "workload"
+    ],
+    "width": "83",
+    "height": "80",
+    "viewBox": "0 0 62.25 60"
+  },
+  {
+    "file": "Journaling_Rule.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "journaling",
+      "rule"
+    ],
+    "width": "77",
+    "height": "85",
+    "viewBox": "0 0 57.75 63.75"
+  },
+  {
+    "file": "Local_Move_Request.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "local",
+      "move",
+      "request"
+    ],
+    "width": "85",
+    "height": "83",
+    "viewBox": "0 0 63.75 62.25"
+  },
+  {
+    "file": "Lync_Control_Panel.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "lync",
+      "control",
+      "panel"
+    ],
+    "width": "100.1",
+    "height": "86",
+    "viewBox": "0 0 75.075 64.5"
+  },
+  {
+    "file": "Lync_Phone_Edition.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "lync",
+      "phone",
+      "edition"
+    ],
+    "width": "113.1",
+    "height": "67",
+    "viewBox": "0 0 84.825 50.25"
+  },
+  {
+    "file": "Lync_Room_System.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "lync",
+      "room",
+      "system"
+    ],
+    "width": "113.6",
+    "height": "62.9",
+    "viewBox": "0 0 85.2 47.175"
+  },
+  {
+    "file": "Lync_Server_Management_Tool.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "lync",
+      "server",
+      "management",
+      "tool"
+    ],
+    "width": "108.1",
+    "height": "70.9",
+    "viewBox": "0 0 81.075 53.175"
+  },
+  {
+    "file": "Lync_Storage_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "lync",
+      "storage",
+      "service"
+    ],
+    "width": "95",
+    "height": "86",
+    "viewBox": "0 0 71.25 64.5"
+  },
+  {
+    "file": "Lync_Web_App_Client.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "lync",
+      "web",
+      "app",
+      "client"
+    ],
+    "width": "119.1",
+    "height": "75.8",
+    "viewBox": "0 0 89.325 56.85"
+  },
+  {
+    "file": "Mail-Enabled_Public_Folder.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "mail",
+      "enabled",
+      "public",
+      "folder"
+    ],
+    "width": "85",
+    "height": "77",
+    "viewBox": "0 0 63.75 57.75"
+  },
+  {
+    "file": "Mailbox_Assistant.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "mailbox",
+      "assistant"
+    ],
+    "width": "85.903",
+    "height": "83",
+    "viewBox": "0 0 64.428 62.25"
+  },
+  {
+    "file": "Messages_Queued.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "messages",
+      "queued"
+    ],
+    "width": "87",
+    "height": "84",
+    "viewBox": "0 0 65.25 63"
+  },
+  {
+    "file": "Offline_Address_Book.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "offline",
+      "address",
+      "book"
+    ],
+    "width": "86",
+    "height": "78",
+    "viewBox": "0 0 64.5 58.5"
+  },
+  {
+    "file": "Personal_Archive_Mailbox.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "personal",
+      "archive",
+      "mailbox"
+    ],
+    "width": "87",
+    "height": "85",
+    "viewBox": "0 0 65.25 63.75"
+  },
+  {
+    "file": "Public_IM_Cloud_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "public",
+      "im",
+      "cloud",
+      "service"
+    ],
+    "width": "86.589",
+    "height": "85.1",
+    "viewBox": "0 0 64.942 63.825"
+  },
+  {
+    "file": "Push_Notification_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "push",
+      "notification",
+      "service"
+    ],
+    "width": "73.7",
+    "height": "85",
+    "viewBox": "0 0 55.275 63.75"
+  },
+  {
+    "file": "Queue_Viewer.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "queue",
+      "viewer"
+    ],
+    "width": "87",
+    "height": "84",
+    "viewBox": "0 0 65.25 63"
+  },
+  {
+    "file": "Remote_Mailbox.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "remote",
+      "mailbox"
+    ],
+    "width": "86",
+    "height": "83",
+    "viewBox": "0 0 64.5 62.25"
+  },
+  {
+    "file": "Remote_Move_Request.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "remote",
+      "move",
+      "request"
+    ],
+    "width": "87",
+    "height": "84",
+    "viewBox": "0 0 65.25 63"
+  },
+  {
+    "file": "Response_Group.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "response",
+      "group"
+    ],
+    "width": "85.1",
+    "height": "79",
+    "viewBox": "0 0 63.825 59.25"
+  },
+  {
+    "file": "Response_Group_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "response",
+      "group",
+      "service"
+    ],
+    "width": "85.1",
+    "height": "79",
+    "viewBox": "0 0 63.825 59.25"
+  },
+  {
+    "file": "Room_Mailbox.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "room",
+      "mailbox"
+    ],
+    "width": "87",
+    "height": "84",
+    "viewBox": "0 0 65.25 63"
+  },
+  {
+    "file": "Shared_Mailbox.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "shared",
+      "mailbox"
+    ],
+    "width": "87",
+    "height": "81",
+    "viewBox": "0 0 65.25 60.75"
+  },
+  {
+    "file": "SIP_URI_UM_Dial_Plan.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "sip",
+      "uri",
+      "um",
+      "dial",
+      "plan"
+    ],
+    "width": "82.1",
+    "height": "83",
+    "viewBox": "0 0 61.575 62.25"
+  },
+  {
+    "file": "Site_Mailbox.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "site",
+      "mailbox"
+    ],
+    "width": "87",
+    "height": "80",
+    "viewBox": "0 0 65.25 60"
+  },
+  {
+    "file": "Skype_for_Business_Control_Panel.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "skype",
+      "for",
+      "business",
+      "control",
+      "panel"
+    ],
+    "width": "105.3",
+    "height": "99",
+    "viewBox": "0 0 78.975 74.25"
+  },
+  {
+    "file": "Skype_for_Business_Phone_Edition.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "skype",
+      "for",
+      "business",
+      "phone",
+      "edition"
+    ],
+    "width": "126",
+    "height": "87",
+    "viewBox": "0 0 94.5 65.25"
+  },
+  {
+    "file": "Skype_for_Business_Room_System.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "skype",
+      "for",
+      "business",
+      "room",
+      "system"
+    ],
+    "width": "120",
+    "height": "78",
+    "viewBox": "0 0 90 58.5"
+  },
+  {
+    "file": "Skype_for_Business_Server_Management_Tool.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "skype",
+      "for",
+      "business",
+      "server",
+      "management",
+      "tool"
+    ],
+    "width": "120",
+    "height": "93",
+    "viewBox": "0 0 90 69.75"
+  },
+  {
+    "file": "Skype_for_Business_Storage_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "skype",
+      "for",
+      "business",
+      "storage",
+      "service"
+    ],
+    "width": "98.625",
+    "height": "102",
+    "viewBox": "0 0 73.969 76.5"
+  },
+  {
+    "file": "Skype_for_Business_Web_App_Client.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "skype",
+      "for",
+      "business",
+      "web",
+      "app",
+      "client"
+    ],
+    "width": "124.5",
+    "height": "97.5",
+    "viewBox": "0 0 93.375 73.125"
+  },
+  {
+    "file": "SMS_Gateway.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "sms",
+      "gateway"
+    ],
+    "width": "87",
+    "height": "57",
+    "viewBox": "0 0 65.25 42.75"
+  },
+  {
+    "file": "SMTP_Connector.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "smtp",
+      "connector"
+    ],
+    "width": "71",
+    "height": "73",
+    "viewBox": "0 0 53.25 54.75"
+  },
+  {
+    "file": "System_Mailbox.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "system",
+      "mailbox"
+    ],
+    "width": "85",
+    "height": "81",
+    "viewBox": "0 0 63.75 60.75"
+  },
+  {
+    "file": "TDM-PBX.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "tdm",
+      "pbx"
+    ],
+    "width": "87",
+    "height": "69",
+    "viewBox": "0 0 65.25 51.75"
+  },
+  {
+    "file": "Telephone_Extension_Dial_Plan.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "telephone",
+      "extension",
+      "dial",
+      "plan"
+    ],
+    "width": "82.1",
+    "height": "83",
+    "viewBox": "0 0 61.575 62.25"
+  },
+  {
+    "file": "Transport_Rule.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "transport",
+      "rule"
+    ],
+    "width": "82",
+    "height": "84",
+    "viewBox": "0 0 61.5 63"
+  },
+  {
+    "file": "UCMA_Application.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "ucma",
+      "application"
+    ],
+    "width": "79",
+    "height": "62",
+    "viewBox": "0 0 59.25 46.5"
+  },
+  {
+    "file": "UCWA_Application.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "ucwa",
+      "application"
+    ],
+    "width": "79",
+    "height": "62",
+    "viewBox": "0 0 59.25 46.5"
+  },
+  {
+    "file": "UM-Enabled_Mailbox.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "um",
+      "enabled",
+      "mailbox"
+    ],
+    "width": "87.1",
+    "height": "84",
+    "viewBox": "0 0 65.325 63"
+  },
+  {
+    "file": "UM_Auto_Attendant.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "um",
+      "auto",
+      "attendant"
+    ],
+    "width": "84",
+    "height": "84",
+    "viewBox": "0 0 63 63"
+  },
+  {
+    "file": "UM_Dial_Plan_E164.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "um",
+      "dial",
+      "plan",
+      "e164"
+    ],
+    "width": "82.1",
+    "height": "83",
+    "viewBox": "0 0 61.575 62.25"
+  },
+  {
+    "file": "UM_Dial_Plan_Secondary.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "um",
+      "dial",
+      "plan",
+      "secondary"
+    ],
+    "width": "82.1",
+    "height": "83",
+    "viewBox": "0 0 61.575 62.25"
+  },
+  {
+    "file": "UM_Hunt_Group.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "um",
+      "hunt",
+      "group"
+    ],
+    "width": "87.1",
+    "height": "72",
+    "viewBox": "0 0 65.325 54"
+  },
+  {
+    "file": "UM_IP_Gateway.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "um",
+      "ip",
+      "gateway"
+    ],
+    "width": "87.1",
+    "height": "59",
+    "viewBox": "0 0 65.325 44.25"
+  },
+  {
+    "file": "User_Mailbox.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "user",
+      "mailbox"
+    ],
+    "width": "87",
+    "height": "81",
+    "viewBox": "0 0 65.25 60.75"
+  },
+  {
+    "file": "Video_Workload.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "video",
+      "workload"
+    ],
+    "width": "84",
+    "height": "75",
+    "viewBox": "0 0 63 56.25"
+  },
+  {
+    "file": "Voice_Mail_Preview_Partner.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "voice",
+      "mail",
+      "preview",
+      "partner"
+    ],
+    "width": "70",
+    "height": "83",
+    "viewBox": "0 0 52.5 62.25"
+  },
+  {
+    "file": "Voice_Workload.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "voice",
+      "workload"
+    ],
+    "width": "84.948",
+    "height": "75.6",
+    "viewBox": "0 0 63.711 56.7"
+  },
+  {
+    "file": "VoIP_Gateway.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "voip",
+      "gateway"
+    ],
+    "width": "76",
+    "height": "28",
+    "viewBox": "0 0 57 21"
+  },
+  {
+    "file": "Watcher_Node.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "watcher",
+      "node"
+    ],
+    "width": "78",
+    "height": "84.1",
+    "viewBox": "0 0 58.5 63.075"
+  },
+  {
+    "file": "XMPP_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "communications",
+      "xmpp",
+      "service"
+    ],
+    "width": "84.689",
+    "height": "77",
+    "viewBox": "0 0 63.517 57.75"
+  }
+]

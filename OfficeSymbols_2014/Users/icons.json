@@ -1,0 +1,550 @@
+[
+  {
+    "file": "Administrator.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "administrator"
+    ],
+    "width": "58",
+    "height": "56",
+    "viewBox": "-0.5 -0.5 58 56"
+  },
+  {
+    "file": "Approver.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "approver"
+    ],
+    "width": "95.1",
+    "height": "91.5",
+    "viewBox": "0 0 71.325 68.625"
+  },
+  {
+    "file": "Call_Center_Agent.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "call",
+      "center",
+      "agent"
+    ],
+    "width": "46",
+    "height": "55",
+    "viewBox": "-0.5 -0.5 46 55"
+  },
+  {
+    "file": "Communications.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "communications"
+    ],
+    "width": "87",
+    "height": "103.5",
+    "viewBox": "0 0 65.25 77.625"
+  },
+  {
+    "file": "Conferencing_Attendant.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "conferencing",
+      "attendant"
+    ],
+    "width": "88.5",
+    "height": "100.5",
+    "viewBox": "0 0 66.375 75.375"
+  },
+  {
+    "file": "Credentials.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "credentials"
+    ],
+    "width": "92.325",
+    "height": "94.5",
+    "viewBox": "0 0 69.244 70.875"
+  },
+  {
+    "file": "CSV_File.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "csv",
+      "file"
+    ],
+    "width": "97.5",
+    "height": "79.5",
+    "viewBox": "0 0 73.125 59.625"
+  },
+  {
+    "file": "Distribution_Group.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "distribution",
+      "group"
+    ],
+    "width": "99.225",
+    "height": "96",
+    "viewBox": "0 0 74.419 72"
+  },
+  {
+    "file": "Dynamic_Distribution_Group.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "dynamic",
+      "distribution",
+      "group"
+    ],
+    "width": "98.925",
+    "height": "96",
+    "viewBox": "0 0 74.194 72"
+  },
+  {
+    "file": "lib-office-users-drawio.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "lib",
+      "office",
+      "drawio"
+    ],
+    "width": "447px",
+    "height": "713px",
+    "viewBox": "-0.5 -0.5 447 713"
+  },
+  {
+    "file": "Mail_User.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "mail",
+      "user"
+    ],
+    "width": "97.125",
+    "height": "102",
+    "viewBox": "0 0 72.844 76.5"
+  },
+  {
+    "file": "Meeting.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "meeting"
+    ],
+    "width": "105",
+    "height": "81",
+    "viewBox": "0 0 78.75 60.75"
+  },
+  {
+    "file": "Mobile_User.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "mobile",
+      "user"
+    ],
+    "width": "59",
+    "height": "56",
+    "viewBox": "-0.5 -0.5 59 56"
+  },
+  {
+    "file": "On-Premises_User.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "on",
+      "premises",
+      "user"
+    ],
+    "width": "87.225",
+    "height": "103.5",
+    "viewBox": "0 0 65.419 77.625"
+  },
+  {
+    "file": "Online_User.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "online",
+      "user"
+    ],
+    "width": "100.5",
+    "height": "85.5",
+    "viewBox": "0 0 75.375 64.125"
+  },
+  {
+    "file": "Outlook_User.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "outlook",
+      "user"
+    ],
+    "width": "100.125",
+    "height": "93",
+    "viewBox": "0 0 75.094 69.75"
+  },
+  {
+    "file": "Response_Group.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "response",
+      "group"
+    ],
+    "width": "97.5",
+    "height": "97.5",
+    "viewBox": "0 0 73.125 73.125"
+  },
+  {
+    "file": "Response_Group_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "response",
+      "group",
+      "service"
+    ],
+    "width": "97.5",
+    "height": "97.5",
+    "viewBox": "0 0 73.125 73.125"
+  },
+  {
+    "file": "Role_Group.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "role",
+      "group"
+    ],
+    "width": "102",
+    "height": "93",
+    "viewBox": "0 0 76.5 69.75"
+  },
+  {
+    "file": "Skype_Commercial_User.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "skype",
+      "commercial",
+      "user"
+    ],
+    "width": "93",
+    "height": "91.5",
+    "viewBox": "0 0 69.75 68.625"
+  },
+  {
+    "file": "Skype_for_Business_User.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "skype",
+      "for",
+      "business",
+      "user"
+    ],
+    "width": "93",
+    "height": "91.5",
+    "viewBox": "0 0 69.75 68.625"
+  },
+  {
+    "file": "Tenant_Admin.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "tenant",
+      "admin"
+    ],
+    "width": "90.075",
+    "height": "97.5",
+    "viewBox": "0 0 67.556 73.125"
+  },
+  {
+    "file": "UM-Enabled_User.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "um",
+      "enabled",
+      "user"
+    ],
+    "width": "95.625",
+    "height": "99",
+    "viewBox": "0 0 71.719 74.25"
+  },
+  {
+    "file": "Universal_Security_Group.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "universal",
+      "security",
+      "group"
+    ],
+    "width": "99.825",
+    "height": "85.5",
+    "viewBox": "0 0 74.869 64.125"
+  },
+  {
+    "file": "User-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "user",
+      "blue"
+    ],
+    "width": "73.5",
+    "height": "91.5",
+    "viewBox": "0 0 55.125 68.625"
+  },
+  {
+    "file": "User-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "user",
+      "ghosted"
+    ],
+    "width": "75",
+    "height": "91.5",
+    "viewBox": "0 0 56.25 68.625"
+  },
+  {
+    "file": "User-green.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "user",
+      "green"
+    ],
+    "width": "75",
+    "height": "91.5",
+    "viewBox": "0 0 56.25 68.625"
+  },
+  {
+    "file": "User-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "user",
+      "orange"
+    ],
+    "width": "73.5",
+    "height": "91.5",
+    "viewBox": "0 0 55.125 68.625"
+  },
+  {
+    "file": "User.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "user"
+    ],
+    "width": "46",
+    "height": "50",
+    "viewBox": "-0.5 -0.5 46 50"
+  },
+  {
+    "file": "User_Accounts.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "user",
+      "accounts"
+    ],
+    "width": "105",
+    "height": "103.5",
+    "viewBox": "0 0 78.75 77.625"
+  },
+  {
+    "file": "User_driver.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "user",
+      "driver"
+    ],
+    "width": "45.875725",
+    "height": "49.786667",
+    "viewBox": "-0.5 -0.5 45.875725 49.786667"
+  },
+  {
+    "file": "User_External.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "user",
+      "external"
+    ],
+    "width": "97.125",
+    "height": "97.5",
+    "viewBox": "0 0 72.844 73.125"
+  },
+  {
+    "file": "User_ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "user",
+      "ghosted"
+    ],
+    "width": "46px",
+    "height": "50px",
+    "viewBox": "-0.5 -0.5 46 50"
+  },
+  {
+    "file": "User_Services.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "user",
+      "services"
+    ],
+    "width": "92.325",
+    "height": "96",
+    "viewBox": "0 0 69.244 72"
+  },
+  {
+    "file": "User_Store.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "user",
+      "store"
+    ],
+    "width": "87.525",
+    "height": "97.5",
+    "viewBox": "0 0 65.644 73.125"
+  },
+  {
+    "file": "Users-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "blue"
+    ],
+    "width": "87",
+    "height": "82.5",
+    "viewBox": "0 0 65.25 61.875"
+  },
+  {
+    "file": "Users-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "ghosted"
+    ],
+    "width": "88.5",
+    "height": "82.5",
+    "viewBox": "0 0 66.375 61.875"
+  },
+  {
+    "file": "Users-green.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "green"
+    ],
+    "width": "88.5",
+    "height": "82.5",
+    "viewBox": "0 0 66.375 61.875"
+  },
+  {
+    "file": "Users-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "orange"
+    ],
+    "width": "87",
+    "height": "82.5",
+    "viewBox": "0 0 65.25 61.875"
+  },
+  {
+    "file": "Users.svg",
+    "keywords": [
+      "officesymbols",
+      "users"
+    ],
+    "width": "46px",
+    "height": "50px",
+    "viewBox": "-0.5 -0.5 46 50"
+  },
+  {
+    "file": "Users_Two-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "two",
+      "blue"
+    ],
+    "width": "92.1",
+    "height": "76.5",
+    "viewBox": "0 0 69.075 57.375"
+  },
+  {
+    "file": "Users_Two-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "two",
+      "ghosted"
+    ],
+    "width": "93",
+    "height": "76.5",
+    "viewBox": "0 0 69.75 57.375"
+  },
+  {
+    "file": "Users_Two-green.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "two",
+      "green"
+    ],
+    "width": "92.7",
+    "height": "76.5",
+    "viewBox": "0 0 69.525 57.375"
+  },
+  {
+    "file": "Users_Two-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "two",
+      "orange"
+    ],
+    "width": "92.4",
+    "height": "76.5",
+    "viewBox": "0 0 69.3 57.375"
+  },
+  {
+    "file": "Users_Two.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "two"
+    ],
+    "width": "91.8",
+    "height": "76.5",
+    "viewBox": "0 0 68.85 57.375"
+  },
+  {
+    "file": "Writer.svg",
+    "keywords": [
+      "officesymbols",
+      "users",
+      "writer"
+    ],
+    "width": "93.9",
+    "height": "99",
+    "viewBox": "0 0 70.425 74.25"
+  }
+]

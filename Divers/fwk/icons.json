@@ -1,0 +1,70 @@
+[
+  {
+    "file": "Angular.svg",
+    "keywords": [
+      "divers",
+      "fwk",
+      "angular"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  },
+  {
+    "file": "Quarkus.svg",
+    "keywords": [
+      "divers",
+      "fwk",
+      "quarkus"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  },
+  {
+    "file": "Spring-boot.svg",
+    "keywords": [
+      "divers",
+      "fwk",
+      "spring",
+      "boot"
+    ],
+    "width": "300px",
+    "height": "300px",
+    "viewBox": "0 0 3000 3000"
+  },
+  {
+    "file": "Spring-cloud.svg",
+    "keywords": [
+      "divers",
+      "fwk",
+      "spring",
+      "cloud"
+    ],
+    "width": "157.91",
+    "height": "107.14",
+    "viewBox": "0 0 157.91 107.14"
+  },
+  {
+    "file": "Spring.svg",
+    "keywords": [
+      "divers",
+      "fwk",
+      "spring"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  },
+  {
+    "file": "Swagger.svg",
+    "keywords": [
+      "divers",
+      "fwk",
+      "swagger"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  }
+]

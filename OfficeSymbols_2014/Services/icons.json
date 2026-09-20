@@ -1,0 +1,362 @@
+[
+  {
+    "file": "3rd_Party_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "3rd",
+      "party",
+      "service"
+    ],
+    "width": "97.125",
+    "height": "97.5",
+    "viewBox": "0 0 72.844 73.125"
+  },
+  {
+    "file": "Access_Services.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "access"
+    ],
+    "width": "101.1",
+    "height": "91.5",
+    "viewBox": "0 0 75.825 68.625"
+  },
+  {
+    "file": "Business_Connectivity_Services.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "business",
+      "connectivity"
+    ],
+    "width": "72",
+    "height": "94.5",
+    "viewBox": "0 0 54 70.875"
+  },
+  {
+    "file": "Call_Admission_Control_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "call",
+      "admission",
+      "control",
+      "service"
+    ],
+    "width": "92.925",
+    "height": "102",
+    "viewBox": "0 0 69.694 76.5"
+  },
+  {
+    "file": "Central_Management_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "central",
+      "management",
+      "service"
+    ],
+    "width": "89.625",
+    "height": "94.5",
+    "viewBox": "0 0 67.219 70.875"
+  },
+  {
+    "file": "Conference_Announcement_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "conference",
+      "announcement",
+      "service"
+    ],
+    "width": "99",
+    "height": "96",
+    "viewBox": "0 0 74.25 72"
+  },
+  {
+    "file": "Device_Update_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "device",
+      "update",
+      "service"
+    ],
+    "width": "87.525",
+    "height": "97.5",
+    "viewBox": "0 0 65.644 73.125"
+  },
+  {
+    "file": "Email_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "email",
+      "service"
+    ],
+    "width": "102",
+    "height": "87",
+    "viewBox": "0 0 76.5 65.25"
+  },
+  {
+    "file": "Excel_Services.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "excel"
+    ],
+    "width": "108",
+    "height": "90",
+    "viewBox": "0 0 81 67.5"
+  },
+  {
+    "file": "Federation_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "federation",
+      "service"
+    ],
+    "width": "99",
+    "height": "96",
+    "viewBox": "0 0 74.25 72"
+  },
+  {
+    "file": "lib-office-services-drawio.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "lib",
+      "office",
+      "drawio"
+    ],
+    "width": "379px",
+    "height": "518px",
+    "viewBox": "-0.5 -0.5 379 518"
+  },
+  {
+    "file": "Lync_Storage_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "lync",
+      "storage",
+      "service"
+    ],
+    "width": "95",
+    "height": "86",
+    "viewBox": "0 0 71.25 64.5"
+  },
+  {
+    "file": "Lync_Web_App_Client.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "lync",
+      "web",
+      "app",
+      "client"
+    ],
+    "width": "119.1",
+    "height": "75.8",
+    "viewBox": "0 0 89.325 56.85"
+  },
+  {
+    "file": "Mobility_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "mobility",
+      "service"
+    ],
+    "width": "84",
+    "height": "97.5",
+    "viewBox": "0 0 63 73.125"
+  },
+  {
+    "file": "Network_File_Share_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "network",
+      "file",
+      "share",
+      "service"
+    ],
+    "width": "100.5",
+    "height": "88.5",
+    "viewBox": "0 0 75.375 66.375"
+  },
+  {
+    "file": "Online_Hosted_Services.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "online",
+      "hosted"
+    ],
+    "width": "101.7",
+    "height": "90",
+    "viewBox": "0 0 76.275 67.5"
+  },
+  {
+    "file": "Outlook_Web_App.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "outlook",
+      "web",
+      "app"
+    ],
+    "width": "130.5",
+    "height": "94.5",
+    "viewBox": "0 0 97.875 70.875"
+  },
+  {
+    "file": "PowerPoint_Automation_Services.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "powerpoint",
+      "automation"
+    ],
+    "width": "102.3",
+    "height": "88.5",
+    "viewBox": "0 0 76.725 66.375"
+  },
+  {
+    "file": "Push_Notification_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "push",
+      "notification",
+      "service"
+    ],
+    "width": "90.525",
+    "height": "97.5",
+    "viewBox": "0 0 67.894 73.125"
+  },
+  {
+    "file": "Registrar_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "registrar",
+      "service"
+    ],
+    "width": "102.9",
+    "height": "88.5",
+    "viewBox": "0 0 77.175 66.375"
+  },
+  {
+    "file": "Response_Group_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "response",
+      "group",
+      "service"
+    ],
+    "width": "100.5",
+    "height": "97.5",
+    "viewBox": "0 0 75.375 73.125"
+  },
+  {
+    "file": "Service.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "service"
+    ],
+    "width": "44.49651",
+    "height": "45.093174",
+    "viewBox": "0 0 33.372501 33.81988"
+  },
+  {
+    "file": "Skype_for_Business_Storage_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "skype",
+      "for",
+      "business",
+      "storage",
+      "service"
+    ],
+    "width": "98.625",
+    "height": "102",
+    "viewBox": "0 0 73.969 76.5"
+  },
+  {
+    "file": "User_Services.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "user"
+    ],
+    "width": "97.5",
+    "height": "96",
+    "viewBox": "0 0 73.125 72"
+  },
+  {
+    "file": "Verification_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "verification",
+      "service"
+    ],
+    "width": "96",
+    "height": "94.5",
+    "viewBox": "0 0 72 70.875"
+  },
+  {
+    "file": "Visio_Services.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "visio"
+    ],
+    "width": "104.1",
+    "height": "88.5",
+    "viewBox": "0 0 78.075 66.375"
+  },
+  {
+    "file": "Web_Services.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "web"
+    ],
+    "width": "102",
+    "height": "96",
+    "viewBox": "0 0 76.5 72"
+  },
+  {
+    "file": "Word_Automation_Services.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "word",
+      "automation"
+    ],
+    "width": "101.7",
+    "height": "88.5",
+    "viewBox": "0 0 76.275 66.375"
+  },
+  {
+    "file": "XMPP_Service.svg",
+    "keywords": [
+      "officesymbols",
+      "services",
+      "xmpp",
+      "service"
+    ],
+    "width": "106.5",
+    "height": "90",
+    "viewBox": "0 0 79.875 67.5"
+  }
+]

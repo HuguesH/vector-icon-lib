@@ -1,0 +1,79 @@
+[
+  {
+    "file": "Ansible.svg",
+    "keywords": [
+      "divers",
+      "ci",
+      "ansible"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  },
+  {
+    "file": "ArgoCD.svg",
+    "keywords": [
+      "divers",
+      "ci",
+      "argocd"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  },
+  {
+    "file": "asciidoctor.svg",
+    "keywords": [
+      "divers",
+      "ci",
+      "asciidoctor"
+    ],
+    "width": "800px",
+    "height": "800px",
+    "viewBox": "0 0 256 256"
+  },
+  {
+    "file": "GitLab.svg",
+    "keywords": [
+      "divers",
+      "ci",
+      "gitlab"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  },
+  {
+    "file": "Grafana.svg",
+    "keywords": [
+      "divers",
+      "ci",
+      "grafana"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  },
+  {
+    "file": "Helm.svg",
+    "keywords": [
+      "divers",
+      "ci",
+      "helm"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  },
+  {
+    "file": "Prometheus.svg",
+    "keywords": [
+      "divers",
+      "ci",
+      "prometheus"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  }
+]

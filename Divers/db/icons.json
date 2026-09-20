@@ -1,0 +1,56 @@
+[
+  {
+    "file": "MongoDB.svg",
+    "keywords": [
+      "divers",
+      "db",
+      "mongodb"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  },
+  {
+    "file": "MySQL.svg",
+    "keywords": [
+      "divers",
+      "db",
+      "mysql"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  },
+  {
+    "file": "Oracle.svg",
+    "keywords": [
+      "divers",
+      "db",
+      "oracle"
+    ],
+    "width": "662.84644",
+    "height": "94.145668"
+  },
+  {
+    "file": "PostgreSQL.svg",
+    "keywords": [
+      "divers",
+      "db",
+      "postgresql"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  },
+  {
+    "file": "Redis.svg",
+    "keywords": [
+      "divers",
+      "db",
+      "redis"
+    ],
+    "width": "128",
+    "height": "128",
+    "viewBox": "0 0 128 128"
+  }
+]

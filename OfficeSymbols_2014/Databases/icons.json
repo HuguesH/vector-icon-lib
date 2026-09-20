@@ -1,0 +1,587 @@
+[
+  {
+    "file": "Address_Book_Store.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "address",
+      "book",
+      "store"
+    ],
+    "width": "89.025",
+    "height": "97.5",
+    "viewBox": "0 0 66.769 73.125"
+  },
+  {
+    "file": "Application_Store.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "application",
+      "store"
+    ],
+    "width": "88.5",
+    "height": "97.5",
+    "viewBox": "0 0 66.375 73.125"
+  },
+  {
+    "file": "Database-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "blue"
+    ],
+    "width": "73.5",
+    "height": "91.5",
+    "viewBox": "0 0 55.125 68.625"
+  },
+  {
+    "file": "Database-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "ghosted"
+    ],
+    "width": "72",
+    "height": "91.5",
+    "viewBox": "0 0 54 68.625"
+  },
+  {
+    "file": "Database-green.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "green"
+    ],
+    "width": "73.5",
+    "height": "91.5",
+    "viewBox": "0 0 55.125 68.625"
+  },
+  {
+    "file": "Database-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "orange"
+    ],
+    "width": "73.5",
+    "height": "91.5",
+    "viewBox": "0 0 55.125 68.625"
+  },
+  {
+    "file": "Database.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database"
+    ],
+    "width": "75",
+    "height": "91.5",
+    "viewBox": "0 0 56.25 68.625"
+  },
+  {
+    "file": "Database_Availability_Group.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "availability",
+      "group"
+    ],
+    "width": "105",
+    "height": "91.5",
+    "viewBox": "0 0 78.75 68.625"
+  },
+  {
+    "file": "Database_Cube-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "cube",
+      "blue"
+    ],
+    "width": "85.5",
+    "height": "94.5",
+    "viewBox": "0 0 64.125 70.875"
+  },
+  {
+    "file": "Database_Cube-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "cube",
+      "ghosted"
+    ],
+    "width": "84",
+    "height": "94.5",
+    "viewBox": "0 0 63 70.875"
+  },
+  {
+    "file": "Database_Cube-green.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "cube",
+      "green"
+    ],
+    "width": "84",
+    "height": "94.5",
+    "viewBox": "0 0 63 70.875"
+  },
+  {
+    "file": "Database_Cube-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "cube",
+      "orange"
+    ],
+    "width": "85.5",
+    "height": "94.5",
+    "viewBox": "0 0 64.125 70.875"
+  },
+  {
+    "file": "Database_Cube.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "cube"
+    ],
+    "width": "85.5",
+    "height": "94.5",
+    "viewBox": "0 0 64.125 70.875"
+  },
+  {
+    "file": "Database_mini_1-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "mini",
+      "1",
+      "blue"
+    ],
+    "width": "75",
+    "height": "61.5",
+    "viewBox": "0 0 56.25 46.125"
+  },
+  {
+    "file": "Database_mini_1-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "mini",
+      "1",
+      "ghosted"
+    ],
+    "width": "73.5",
+    "height": "61.5",
+    "viewBox": "0 0 55.125 46.125"
+  },
+  {
+    "file": "Database_mini_1-green.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "mini",
+      "1",
+      "green"
+    ],
+    "width": "73.5",
+    "height": "61.5",
+    "viewBox": "0 0 55.125 46.125"
+  },
+  {
+    "file": "Database_mini_1-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "mini",
+      "1",
+      "orange"
+    ],
+    "width": "73.5",
+    "height": "61.5",
+    "viewBox": "0 0 55.125 46.125"
+  },
+  {
+    "file": "Database_mini_1.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "mini",
+      "1"
+    ],
+    "width": "75",
+    "height": "61.5",
+    "viewBox": "0 0 56.25 46.125"
+  },
+  {
+    "file": "Database_mini_2-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "mini",
+      "2",
+      "blue"
+    ],
+    "width": "70.5",
+    "height": "81",
+    "viewBox": "0 0 52.875 60.75"
+  },
+  {
+    "file": "Database_mini_2-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "mini",
+      "2",
+      "ghosted"
+    ],
+    "width": "70.5",
+    "height": "81",
+    "viewBox": "0 0 52.875 60.75"
+  },
+  {
+    "file": "Database_mini_2-green.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "mini",
+      "2",
+      "green"
+    ],
+    "width": "70.5",
+    "height": "81",
+    "viewBox": "0 0 52.875 60.75"
+  },
+  {
+    "file": "Database_mini_2-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "mini",
+      "2",
+      "orange"
+    ],
+    "width": "70.5",
+    "height": "81",
+    "viewBox": "0 0 52.875 60.75"
+  },
+  {
+    "file": "Database_mini_2.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "mini",
+      "2"
+    ],
+    "width": "72",
+    "height": "81",
+    "viewBox": "0 0 54 60.75"
+  },
+  {
+    "file": "Database_mini_3-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "mini",
+      "3",
+      "blue"
+    ],
+    "width": "72",
+    "height": "97.5",
+    "viewBox": "0 0 54 73.125"
+  },
+  {
+    "file": "Database_mini_3-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "mini",
+      "3",
+      "ghosted"
+    ],
+    "width": "70.5",
+    "height": "97.5",
+    "viewBox": "0 0 52.875 73.125"
+  },
+  {
+    "file": "Database_mini_3-green.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "mini",
+      "3",
+      "green"
+    ],
+    "width": "70.5",
+    "height": "97.5",
+    "viewBox": "0 0 52.875 73.125"
+  },
+  {
+    "file": "Database_mini_3-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "mini",
+      "3",
+      "orange"
+    ],
+    "width": "72",
+    "height": "97.5",
+    "viewBox": "0 0 54 73.125"
+  },
+  {
+    "file": "Database_mini_3.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "mini",
+      "3"
+    ],
+    "width": "72",
+    "height": "97.5",
+    "viewBox": "0 0 54 73.125"
+  },
+  {
+    "file": "Database_Mirror.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "mirror"
+    ],
+    "width": "106.5",
+    "height": "94.5",
+    "viewBox": "0 0 79.875 70.875"
+  },
+  {
+    "file": "Database_Mirror_Witness_Node.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "mirror",
+      "witness",
+      "node"
+    ],
+    "width": "60px",
+    "height": "59px",
+    "viewBox": "-0.5 -0.5 60 59"
+  },
+  {
+    "file": "Database_Partition_2.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "partition",
+      "2"
+    ],
+    "width": "96",
+    "height": "93",
+    "viewBox": "0 0 72 69.75"
+  },
+  {
+    "file": "Database_Partition_3.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "partition",
+      "3"
+    ],
+    "width": "96",
+    "height": "93",
+    "viewBox": "0 0 72 69.75"
+  },
+  {
+    "file": "Database_Partition_4.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "partition",
+      "4"
+    ],
+    "width": "96",
+    "height": "93",
+    "viewBox": "0 0 72 69.75"
+  },
+  {
+    "file": "Database_Partition_5.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "partition",
+      "5"
+    ],
+    "width": "96",
+    "height": "93",
+    "viewBox": "0 0 72 69.75"
+  },
+  {
+    "file": "Database_Public_Folder.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "public",
+      "folder"
+    ],
+    "width": "97.125",
+    "height": "97.5",
+    "viewBox": "0 0 72.844 73.125"
+  },
+  {
+    "file": "Database_Server-blue.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "server",
+      "blue"
+    ],
+    "width": "78",
+    "height": "94.5",
+    "viewBox": "0 0 58.5 70.875"
+  },
+  {
+    "file": "Database_Server-ghosted.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "server",
+      "ghosted"
+    ],
+    "width": "78",
+    "height": "94.5",
+    "viewBox": "0 0 58.5 70.875"
+  },
+  {
+    "file": "Database_Server-green.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "server",
+      "green"
+    ],
+    "width": "78",
+    "height": "94.5",
+    "viewBox": "0 0 58.5 70.875"
+  },
+  {
+    "file": "Database_Server-orange.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "server",
+      "orange"
+    ],
+    "width": "78",
+    "height": "94.5",
+    "viewBox": "0 0 58.5 70.875"
+  },
+  {
+    "file": "Database_Server.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "database",
+      "server"
+    ],
+    "width": "78",
+    "height": "94.5",
+    "viewBox": "0 0 58.5 70.875"
+  },
+  {
+    "file": "lib-office-databases-drawio.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "lib",
+      "office",
+      "drawio"
+    ],
+    "width": "334px",
+    "height": "687px",
+    "viewBox": "-0.5 -0.5 334 687"
+  },
+  {
+    "file": "Mailbox_Database.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "mailbox",
+      "database"
+    ],
+    "width": "92.625",
+    "height": "97.5",
+    "viewBox": "0 0 69.469 73.125"
+  },
+  {
+    "file": "Monitoring_Store.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "monitoring",
+      "store"
+    ],
+    "width": "99",
+    "height": "93",
+    "viewBox": "0 0 74.25 69.75"
+  },
+  {
+    "file": "Unified_Contact_Store.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "unified",
+      "contact",
+      "store"
+    ],
+    "width": "90.825",
+    "height": "97.5",
+    "viewBox": "0 0 68.119 73.125"
+  },
+  {
+    "file": "Web_Store.svg",
+    "keywords": [
+      "officesymbols",
+      "databases",
+      "web",
+      "store"
+    ],
+    "width": "87",
+    "height": "94.5",
+    "viewBox": "0 0 65.25 70.875"
+  }
+]
