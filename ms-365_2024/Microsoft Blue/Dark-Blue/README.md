@@ -4,7 +4,7 @@ Icônes Microsoft 365 collectées depuis les bibliothèques Microsoft 365 2024. 
 
 Catalogue JSON : [icons.json](icons.json).
 
-### Images SVG (155)
+### Images SVG (154)
 
 | Aperçu | Nom | Mots-clés | Taille | Fichier |
 | --- | --- | --- | --- | --- |
@@ -55,7 +55,6 @@ Catalogue JSON : [icons.json](icons.json).
 | ![Data-Area](Data-Area.svg) | Data-Area | microsoft-365, microsoft blue, dark-blue, data, area | 48 × 48 | [Data-Area.svg](Data-Area.svg) |
 | ![Data-Bar-Vertical](Data-Bar-Vertical.svg) | Data-Bar-Vertical | microsoft-365, microsoft blue, dark-blue, data, bar, vertical | 48 × 48 | [Data-Bar-Vertical.svg](Data-Bar-Vertical.svg) |
 | ![Data-Pie](Data-Pie.svg) | Data-Pie | microsoft-365, microsoft blue, dark-blue, data, pie | 48 × 48 | [Data-Pie.svg](Data-Pie.svg) |
-| ![Data-Trending-(1)](Data-Trending-%281%29.svg) | Data-Trending-(1) | microsoft-365, microsoft blue, dark-blue, data, trending, 1 | 48 × 48 | [Data-Trending-(1).svg](Data-Trending-%281%29.svg) |
 | ![Data-Trending](Data-Trending.svg) | Data-Trending | microsoft-365, microsoft blue, dark-blue, data, trending | 48 × 48 | [Data-Trending.svg](Data-Trending.svg) |
 | ![Data-Usage](Data-Usage.svg) | Data-Usage | microsoft-365, microsoft blue, dark-blue, data, usage | 48 × 48 | [Data-Usage.svg](Data-Usage.svg) |
 | ![Database](Database.svg) | Database | microsoft-365, microsoft blue, dark-blue, database | 48 × 48 | [Database.svg](Database.svg) |

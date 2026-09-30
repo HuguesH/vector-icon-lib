@@ -4,7 +4,7 @@ Icônes Office Symbols 2014 organisées par domaine fonctionnel. Répertoire sou
 
 Catalogue JSON : [icons.json](icons.json).
 
-### Images SVG (23)
+### Images SVG (22)
 
 | Aperçu | Nom | Mots-clés | Taille | Fichier |
 | --- | --- | --- | --- | --- |
@@ -12,7 +12,6 @@ Catalogue JSON : [icons.json](icons.json).
 | ![Blog_Site](Blog_Site.svg) | Blog_Site | officesymbols, sites, blog, site | 83.1 × 73.3 | [Blog_Site.svg](Blog_Site.svg) |
 | ![Business_Connectivity_Services](Business_Connectivity_Services.svg) | Business_Connectivity_Services | officesymbols, sites, business, connectivity, services | 53.4 × 76 | [Business_Connectivity_Services.svg](Business_Connectivity_Services.svg) |
 | ![Excel_Services](Excel_Services.svg) | Excel_Services | officesymbols, sites, excel, services | 88.038 × 73.566 | [Excel_Services.svg](Excel_Services.svg) |
-| ![lib-office-sites-drawio](lib-office-sites-drawio.svg) | lib-office-sites-drawio | officesymbols, sites, lib, office, drawio | 433px × 440px | [lib-office-sites-drawio.svg](lib-office-sites-drawio.svg) |
 | ![Meeting_Workspace_Site](Meeting_Workspace_Site.svg) | Meeting_Workspace_Site | officesymbols, sites, meeting, workspace, site | 86.1 × 75.3 | [Meeting_Workspace_Site.svg](Meeting_Workspace_Site.svg) |
 | ![My_Site](My_Site.svg) | My_Site | officesymbols, sites, my, site | 85 × 73 | [My_Site.svg](My_Site.svg) |
 | ![PowerPoint_Automation_Services](PowerPoint_Automation_Services.svg) | PowerPoint_Automation_Services | officesymbols, sites, powerpoint, automation, services | 87.038 × 72.966 | [PowerPoint_Automation_Services.svg](PowerPoint_Automation_Services.svg) |

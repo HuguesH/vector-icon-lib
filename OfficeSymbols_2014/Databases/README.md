@@ -4,7 +4,7 @@ Icônes Office Symbols 2014 organisées par domaine fonctionnel. Répertoire sou
 
 Catalogue JSON : [icons.json](icons.json).
 
-### Images SVG (45)
+### Images SVG (44)
 
 | Aperçu | Nom | Mots-clés | Taille | Fichier |
 | --- | --- | --- | --- | --- |
@@ -48,7 +48,6 @@ Catalogue JSON : [icons.json](icons.json).
 | ![Database_Server-green](Database_Server-green.svg) | Database_Server-green | officesymbols, databases, database, server, green | 78 × 94.5 | [Database_Server-green.svg](Database_Server-green.svg) |
 | ![Database_Server-orange](Database_Server-orange.svg) | Database_Server-orange | officesymbols, databases, database, server, orange | 78 × 94.5 | [Database_Server-orange.svg](Database_Server-orange.svg) |
 | ![Database_Server](Database_Server.svg) | Database_Server | officesymbols, databases, database, server | 78 × 94.5 | [Database_Server.svg](Database_Server.svg) |
-| ![lib-office-databases-drawio](lib-office-databases-drawio.svg) | lib-office-databases-drawio | officesymbols, databases, lib, office, drawio | 334px × 687px | [lib-office-databases-drawio.svg](lib-office-databases-drawio.svg) |
 | ![Mailbox_Database](Mailbox_Database.svg) | Mailbox_Database | officesymbols, databases, mailbox, database | 92.625 × 97.5 | [Mailbox_Database.svg](Mailbox_Database.svg) |
 | ![Monitoring_Store](Monitoring_Store.svg) | Monitoring_Store | officesymbols, databases, monitoring, store | 99 × 93 | [Monitoring_Store.svg](Monitoring_Store.svg) |
 | ![Unified_Contact_Store](Unified_Contact_Store.svg) | Unified_Contact_Store | officesymbols, databases, unified, contact, store | 90.825 × 97.5 | [Unified_Contact_Store.svg](Unified_Contact_Store.svg) |

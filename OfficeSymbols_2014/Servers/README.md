@@ -4,7 +4,7 @@ Icônes Office Symbols 2014 organisées par domaine fonctionnel. Répertoire sou
 
 Catalogue JSON : [icons.json](icons.json).
 
-### Images SVG (99)
+### Images SVG (98)
 
 | Aperçu | Nom | Mots-clés | Taille | Fichier |
 | --- | --- | --- | --- | --- |
@@ -46,7 +46,6 @@ Catalogue JSON : [icons.json](icons.json).
 | ![Exchange_2013_Server](Exchange_2013_Server.svg) | Exchange_2013_Server | officesymbols, servers, exchange, 2013, server | 94.5 × 93 | [Exchange_2013_Server.svg](Exchange_2013_Server.svg) |
 | ![File_Server](File_Server.svg) | File_Server | officesymbols, servers, file, server | 84 × 99 | [File_Server.svg](File_Server.svg) |
 | ![Hybrid_Server](Hybrid_Server.svg) | Hybrid_Server | officesymbols, servers, hybrid, server | 100.5 × 91.5 | [Hybrid_Server.svg](Hybrid_Server.svg) |
-| ![lib-office-servers-drawio](lib-office-servers-drawio.svg) | lib-office-servers-drawio | officesymbols, servers, lib, office, drawio | 404px × 1700px | [lib-office-servers-drawio.svg](lib-office-servers-drawio.svg) |
 | ![Mainframe](Mainframe.svg) | Mainframe | officesymbols, servers, mainframe | 102 × 79.5 | [Mainframe.svg](Mainframe.svg) |
 | ![Mainframe_Host](Mainframe_Host.svg) | Mainframe_Host | officesymbols, servers, mainframe, host | 82.5 × 78 | [Mainframe_Host.svg](Mainframe_Host.svg) |
 | ![Monitoring_SQL_Reporting_Services](Monitoring_SQL_Reporting_Services.svg) | Monitoring_SQL_Reporting_Services | officesymbols, servers, monitoring, sql, reporting, services | 87 × 97.5 | [Monitoring_SQL_Reporting_Services.svg](Monitoring_SQL_Reporting_Services.svg) |

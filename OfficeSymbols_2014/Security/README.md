@@ -4,7 +4,7 @@ Icônes Office Symbols 2014 organisées par domaine fonctionnel. Répertoire sou
 
 Catalogue JSON : [icons.json](icons.json).
 
-### Images SVG (46)
+### Images SVG (45)
 
 | Aperçu | Nom | Mots-clés | Taille | Fichier |
 | --- | --- | --- | --- | --- |
@@ -22,7 +22,6 @@ Catalogue JSON : [icons.json](icons.json).
 | ![Key_Permissions-green](Key_Permissions-green.svg) | Key_Permissions-green | officesymbols, security, key, permissions, green | 58.5 × 97.5 | [Key_Permissions-green.svg](Key_Permissions-green.svg) |
 | ![Key_Permissions-orange](Key_Permissions-orange.svg) | Key_Permissions-orange | officesymbols, security, key, permissions, orange | 57 × 97.5 | [Key_Permissions-orange.svg](Key_Permissions-orange.svg) |
 | ![Key_Permissions](Key_Permissions.svg) | Key_Permissions | officesymbols, security, key, permissions | 58.5 × 97.5 | [Key_Permissions.svg](Key_Permissions.svg) |
-| ![lib-office-security-drawio](lib-office-security-drawio.svg) | lib-office-security-drawio | officesymbols, security, lib, office, drawio | 352px × 734px | [lib-office-security-drawio.svg](lib-office-security-drawio.svg) |
 | ![Lock_Protected-blue](Lock_Protected-blue.svg) | Lock_Protected-blue | officesymbols, security, lock, protected, blue | 78 × 97.5 | [Lock_Protected-blue.svg](Lock_Protected-blue.svg) |
 | ![Lock_Protected-ghosted](Lock_Protected-ghosted.svg) | Lock_Protected-ghosted | officesymbols, security, lock, protected, ghosted | 79.5 × 97.5 | [Lock_Protected-ghosted.svg](Lock_Protected-ghosted.svg) |
 | ![Lock_Protected-green](Lock_Protected-green.svg) | Lock_Protected-green | officesymbols, security, lock, protected, green | 79.5 × 97.5 | [Lock_Protected-green.svg](Lock_Protected-green.svg) |

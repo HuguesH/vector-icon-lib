@@ -4,7 +4,7 @@ Icônes Office Symbols 2014 organisées par domaine fonctionnel. Répertoire sou
 
 Catalogue JSON : [icons.json](icons.json).
 
-### Images SVG (29)
+### Images SVG (28)
 
 | Aperçu | Nom | Mots-clés | Taille | Fichier |
 | --- | --- | --- | --- | --- |
@@ -18,7 +18,6 @@ Catalogue JSON : [icons.json](icons.json).
 | ![Email_Service](Email_Service.svg) | Email_Service | officesymbols, services, email, service | 102 × 87 | [Email_Service.svg](Email_Service.svg) |
 | ![Excel_Services](Excel_Services.svg) | Excel_Services | officesymbols, services, excel | 108 × 90 | [Excel_Services.svg](Excel_Services.svg) |
 | ![Federation_Service](Federation_Service.svg) | Federation_Service | officesymbols, services, federation, service | 99 × 96 | [Federation_Service.svg](Federation_Service.svg) |
-| ![lib-office-services-drawio](lib-office-services-drawio.svg) | lib-office-services-drawio | officesymbols, services, lib, office, drawio | 379px × 518px | [lib-office-services-drawio.svg](lib-office-services-drawio.svg) |
 | ![Lync_Storage_Service](Lync_Storage_Service.svg) | Lync_Storage_Service | officesymbols, services, lync, storage, service | 95 × 86 | [Lync_Storage_Service.svg](Lync_Storage_Service.svg) |
 | ![Lync_Web_App_Client](Lync_Web_App_Client.svg) | Lync_Web_App_Client | officesymbols, services, lync, web, app, client | 119.1 × 75.8 | [Lync_Web_App_Client.svg](Lync_Web_App_Client.svg) |
 | ![Mobility_Service](Mobility_Service.svg) | Mobility_Service | officesymbols, services, mobility, service | 84 × 97.5 | [Mobility_Service.svg](Mobility_Service.svg) |

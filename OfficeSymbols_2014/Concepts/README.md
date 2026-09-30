@@ -4,7 +4,7 @@ Icônes Office Symbols 2014 organisées par domaine fonctionnel. Répertoire sou
 
 Catalogue JSON : [icons.json](icons.json).
 
-### Images SVG (126)
+### Images SVG (125)
 
 | Aperçu | Nom | Mots-clés | Taille | Fichier |
 | --- | --- | --- | --- | --- |
@@ -81,7 +81,6 @@ Catalogue JSON : [icons.json](icons.json).
 | ![Integration](Integration.svg) | Integration | officesymbols, concepts, integration | 87 × 87 | [Integration.svg](Integration.svg) |
 | ![Lab](Lab.svg) | Lab | officesymbols, concepts, lab | 87 × 90 | [Lab.svg](Lab.svg) |
 | ![Learn](Learn.svg) | Learn | officesymbols, concepts, learn | 90 × 97.5 | [Learn.svg](Learn.svg) |
-| ![lib-office-concepts-drawio](lib-office-concepts-drawio.svg) | lib-office-concepts-drawio | officesymbols, concepts, lib, office, drawio | 374px × 1846px | [lib-office-concepts-drawio.svg](lib-office-concepts-drawio.svg) |
 | ![License](License.svg) | License | officesymbols, concepts, license | 90 × 93 | [License.svg](License.svg) |
 | ![Link](Link.svg) | Link | officesymbols, concepts, link | 106.5 × 54 | [Link.svg](Link.svg) |
 | ![List_Library](List_Library.svg) | List_Library | officesymbols, concepts, list, library | 97.125 × 91.5 | [List_Library.svg](List_Library.svg) |

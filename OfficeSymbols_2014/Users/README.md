@@ -4,7 +4,7 @@ Icônes Office Symbols 2014 organisées par domaine fonctionnel. Répertoire sou
 
 Catalogue JSON : [icons.json](icons.json).
 
-### Images SVG (46)
+### Images SVG (45)
 
 | Aperçu | Nom | Mots-clés | Taille | Fichier |
 | --- | --- | --- | --- | --- |
@@ -17,7 +17,6 @@ Catalogue JSON : [icons.json](icons.json).
 | ![CSV_File](CSV_File.svg) | CSV_File | officesymbols, users, csv, file | 97.5 × 79.5 | [CSV_File.svg](CSV_File.svg) |
 | ![Distribution_Group](Distribution_Group.svg) | Distribution_Group | officesymbols, users, distribution, group | 99.225 × 96 | [Distribution_Group.svg](Distribution_Group.svg) |
 | ![Dynamic_Distribution_Group](Dynamic_Distribution_Group.svg) | Dynamic_Distribution_Group | officesymbols, users, dynamic, distribution, group | 98.925 × 96 | [Dynamic_Distribution_Group.svg](Dynamic_Distribution_Group.svg) |
-| ![lib-office-users-drawio](lib-office-users-drawio.svg) | lib-office-users-drawio | officesymbols, users, lib, office, drawio | 447px × 713px | [lib-office-users-drawio.svg](lib-office-users-drawio.svg) |
 | ![Mail_User](Mail_User.svg) | Mail_User | officesymbols, users, mail, user | 97.125 × 102 | [Mail_User.svg](Mail_User.svg) |
 | ![Meeting](Meeting.svg) | Meeting | officesymbols, users, meeting | 105 × 81 | [Meeting.svg](Meeting.svg) |
 | ![Mobile_User](Mobile_User.svg) | Mobile_User | officesymbols, users, mobile, user | 59 × 56 | [Mobile_User.svg](Mobile_User.svg) |
