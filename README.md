@@ -21,11 +21,11 @@ deux fichiers :
   et des agents. Le champ `file` est la référence unique du logo ; le nom et
   l'aperçu sont dérivés de ce fichier, sans champs redondants.
 
-Il n'y a plus de copie de ces catalogues dans `docs/`. La documentation est
+Il n'y a pas de copie de ces catalogues dans `docs/`. La documentation est
 maintenue au plus près des fichiers SVG afin de simplifier leur découverte et
 leur utilisation.
 
-Pour régénérer les catalogues depuis la racine du projet :
+Pour tenir à jour les catalogues depuis la racine du projet :
 
 ```bash
 python3 scripts/generate-svg-docs.py
